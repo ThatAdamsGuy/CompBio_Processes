@@ -1,0 +1,4 @@
+genomes/RUG176.fa
+genomes/RUG212.fa
+genomes/RUG552.fa
+genomes/RUG617.fa

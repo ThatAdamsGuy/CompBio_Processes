@@ -1,0 +1,1726 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CLEELPEM_00001	CDS	978	fba_1	4.1.2.13		Fructose-bisphosphate aldolase
+CLEELPEM_00002	CDS	2400	leuS	6.1.1.4		Leucine--tRNA ligase
+CLEELPEM_00003	CDS	1026				hypothetical protein
+CLEELPEM_00004	CDS	2091	fusA_1		COG0480	Elongation factor G
+CLEELPEM_00005	CDS	1101				hypothetical protein
+CLEELPEM_00006	CDS	1302	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+CLEELPEM_00007	CDS	1293	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+CLEELPEM_00008	CDS	795	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+CLEELPEM_00009	CDS	1749				hypothetical protein
+CLEELPEM_00010	CDS	2277	agaA_1	3.2.1.22		Alpha-galactosidase AgaA
+CLEELPEM_00011	CDS	885	rhaS_1			HTH-type transcriptional activator RhaS
+CLEELPEM_00012	CDS	2190	agaSK			Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+CLEELPEM_00013	CDS	249				hypothetical protein
+CLEELPEM_00014	CDS	2175	feoB_1		COG0370	Fe(2+) transporter FeoB
+CLEELPEM_00015	CDS	225				hypothetical protein
+CLEELPEM_00016	CDS	213				hypothetical protein
+CLEELPEM_00017	CDS	219				hypothetical protein
+CLEELPEM_00018	CDS	1317	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CLEELPEM_00019	CDS	276				hypothetical protein
+CLEELPEM_00020	CDS	1233				hypothetical protein
+CLEELPEM_00021	CDS	1338	der			GTPase Der
+CLEELPEM_00022	CDS	654	plsY	2.3.1.-	COG0344	Glycerol-3-phosphate acyltransferase
+CLEELPEM_00023	CDS	1014	gpsA_1	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CLEELPEM_00024	CDS	1233	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+CLEELPEM_00025	CDS	1668	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+CLEELPEM_00026	CDS	480	ilvH_1	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+CLEELPEM_00027	CDS	549	ilvH_2	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+CLEELPEM_00028	CDS	1026	ilvC	1.1.1.86		Ketol-acid reductoisomerase (NADP(+))
+CLEELPEM_00029	CDS	729				hypothetical protein
+CLEELPEM_00030	CDS	609	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+CLEELPEM_00031	CDS	1056	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+CLEELPEM_00032	CDS	501	zapA			Cell division protein ZapA
+CLEELPEM_00033	CDS	2319				hypothetical protein
+CLEELPEM_00034	CDS	1503	ftsW_1			Putative lipid II flippase FtsW
+CLEELPEM_00035	CDS	1512	pbpA		COG0768	Penicillin-binding protein A
+CLEELPEM_00036	CDS	240				hypothetical protein
+CLEELPEM_00037	CDS	465	smpB		COG0691	SsrA-binding protein
+CLEELPEM_00038	tmRNA	355	ssrA			transfer-messenger RNA, SsrA
+CLEELPEM_00039	CDS	2958				hypothetical protein
+CLEELPEM_00040	CDS	351			COG0662	Oxalate-binding protein
+CLEELPEM_00041	CDS	1113				hypothetical protein
+CLEELPEM_00042	CDS	672				hypothetical protein
+CLEELPEM_00043	CDS	489				hypothetical protein
+CLEELPEM_00044	CDS	375				hypothetical protein
+CLEELPEM_00045	CDS	864				hypothetical protein
+CLEELPEM_00046	CDS	777				hypothetical protein
+CLEELPEM_00047	CDS	1485				hypothetical protein
+CLEELPEM_00048	CDS	795				hypothetical protein
+CLEELPEM_00049	CDS	1290				hypothetical protein
+CLEELPEM_00050	CDS	1236				hypothetical protein
+CLEELPEM_00051	CDS	1536				hypothetical protein
+CLEELPEM_00052	CDS	1443				hypothetical protein
+CLEELPEM_00053	CDS	1140				hypothetical protein
+CLEELPEM_00054	CDS	1575	sacA_1	3.2.1.26		Sucrose-6-phosphate hydrolase
+CLEELPEM_00055	CDS	2928				hypothetical protein
+CLEELPEM_00056	CDS	420				hypothetical protein
+CLEELPEM_00057	CDS	987	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+CLEELPEM_00058	CDS	798				hypothetical protein
+CLEELPEM_00059	CDS	1317				hypothetical protein
+CLEELPEM_00060	CDS	360				hypothetical protein
+CLEELPEM_00061	CDS	150	rpmG1		COG0267	50S ribosomal protein L33 1
+CLEELPEM_00062	CDS	222	secE			Protein translocase subunit SecE
+CLEELPEM_00063	CDS	774	nusG			Transcription termination/antitermination protein NusG
+CLEELPEM_00064	CDS	426	rplK			50S ribosomal protein L11
+CLEELPEM_00065	CDS	690	rplA			50S ribosomal protein L1
+CLEELPEM_00066	CDS	1329				hypothetical protein
+CLEELPEM_00067	CDS	519	rplJ		COG0244	50S ribosomal protein L10
+CLEELPEM_00068	CDS	372	rplL			50S ribosomal protein L7/L12
+CLEELPEM_00069	CDS	3888	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+CLEELPEM_00070	CDS	3756	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+CLEELPEM_00071	CDS	420	rpsL		COG0048	30S ribosomal protein S12
+CLEELPEM_00072	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+CLEELPEM_00073	CDS	2112	fusA_2		COG0480	Elongation factor G
+CLEELPEM_00074	CDS	1044	tuf_1		COG0050	Elongation factor Tu
+CLEELPEM_00075	CDS	138	tuf_2			Elongation factor Tu
+CLEELPEM_00076	CDS	2175	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+CLEELPEM_00077	CDS	1329				hypothetical protein
+CLEELPEM_00078	CDS	1719				hypothetical protein
+CLEELPEM_00079	CDS	768				hypothetical protein
+CLEELPEM_00080	CDS	303				hypothetical protein
+CLEELPEM_00081	CDS	330				hypothetical protein
+CLEELPEM_00082	CDS	690				hypothetical protein
+CLEELPEM_00083	CDS	558				hypothetical protein
+CLEELPEM_00084	CDS	573				hypothetical protein
+CLEELPEM_00085	CDS	1326				hypothetical protein
+CLEELPEM_00086	CDS	822	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+CLEELPEM_00087	CDS	771	znuC	3.6.3.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+CLEELPEM_00088	CDS	1002	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+CLEELPEM_00089	CDS	426	perR_1		COG0735	Peroxide operon regulator
+CLEELPEM_00090	CDS	2598	copA	3.6.3.54		putative copper-importing P-type ATPase A
+CLEELPEM_00091	CDS	387				hypothetical protein
+CLEELPEM_00092	CDS	627				hypothetical protein
+CLEELPEM_00093	CDS	264				hypothetical protein
+CLEELPEM_00094	CDS	1875	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+CLEELPEM_00095	CDS	1605				hypothetical protein
+CLEELPEM_00096	CDS	1134	wecE	2.6.1.59	COG0399	dTDP-4-amino-4,6-dideoxygalactose transaminase
+CLEELPEM_00097	CDS	978	yfdH	2.4.1.-	COG0463	Prophage bactoprenol glucosyl transferase 
+CLEELPEM_00098	CDS	357	arnE_1			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+CLEELPEM_00099	CDS	366	arnE_2			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+CLEELPEM_00100	CDS	1989				hypothetical protein
+CLEELPEM_00101	CDS	492				hypothetical protein
+CLEELPEM_00102	CDS	984				hypothetical protein
+CLEELPEM_00103	CDS	1173		1.1.1.38		NAD-dependent malic enzyme
+CLEELPEM_00104	CDS	555				hypothetical protein
+CLEELPEM_00105	CDS	714	arlR		COG0745	Response regulator ArlR
+CLEELPEM_00106	CDS	1272	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_00107	CDS	531	rimP			Ribosome maturation factor RimP
+CLEELPEM_00108	CDS	1242	nusA		COG0195	Transcription termination/antitermination protein NusA
+CLEELPEM_00109	CDS	273				hypothetical protein
+CLEELPEM_00110	CDS	324	rplGA		COG1358	putative ribosomal protein YlxQ
+CLEELPEM_00111	CDS	3009	lepA_1			Elongation factor 4
+CLEELPEM_00112	CDS	411	rbfA			Ribosome-binding factor A
+CLEELPEM_00113	CDS	966	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+CLEELPEM_00114	CDS	975	truB	5.4.99.25		tRNA pseudouridine synthase B
+CLEELPEM_00115	CDS	924	ribF		COG0196	Riboflavin biosynthesis protein RibF
+CLEELPEM_00116	CDS	267	rpsO		COG0184	30S ribosomal protein S15
+CLEELPEM_00117	CDS	2109	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+CLEELPEM_00118	CDS	1464	mutL			DNA mismatch repair protein MutL
+CLEELPEM_00119	CDS	972	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+CLEELPEM_00120	CDS	1305				hypothetical protein
+CLEELPEM_00121	CDS	690				hypothetical protein
+CLEELPEM_00122	CDS	2892				hypothetical protein
+CLEELPEM_00123	CDS	1152	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+CLEELPEM_00124	CDS	396	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+CLEELPEM_00125	CDS	420				hypothetical protein
+CLEELPEM_00126	CDS	1395				hypothetical protein
+CLEELPEM_00127	CDS	690			COG0325	Pyridoxal phosphate homeostasis protein
+CLEELPEM_00128	CDS	561	sepF			Cell division protein SepF
+CLEELPEM_00129	CDS	1122	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+CLEELPEM_00130	CDS	591	lspA_1	3.4.23.36		Lipoprotein signal peptidase
+CLEELPEM_00131	CDS	942	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CLEELPEM_00132	CDS	651	cmk_1	2.7.4.25		Cytidylate kinase
+CLEELPEM_00133	CDS	1767		3.6.1.1		Cobalt-dependent inorganic pyrophosphatase
+CLEELPEM_00134	CDS	621	nuoN	1.6.5.11	COG1007	NADH-quinone oxidoreductase subunit N
+CLEELPEM_00135	CDS	1446	ndhB_1	1.6.5.11		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+CLEELPEM_00136	CDS	1467	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+CLEELPEM_00137	CDS	2010	ndhB_2	1.6.5.11		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+CLEELPEM_00138	CDS	837				hypothetical protein
+CLEELPEM_00139	CDS	1428				hypothetical protein
+CLEELPEM_00140	CDS	1275	lytR_1			Transcriptional regulator LytR
+CLEELPEM_00141	CDS	351				hypothetical protein
+CLEELPEM_00142	CDS	411	mscL		COG1970	Large-conductance mechanosensitive channel
+CLEELPEM_00143	CDS	1470	speA	4.1.1.19	COG1982	Arginine decarboxylase
+CLEELPEM_00144	CDS	150				hypothetical protein
+CLEELPEM_00145	CDS	1533				hypothetical protein
+CLEELPEM_00146	CDS	231				hypothetical protein
+CLEELPEM_00147	CDS	804				hypothetical protein
+CLEELPEM_00148	CDS	1227		2.7.7.-		putative uridylyltransferase
+CLEELPEM_00149	CDS	267				hypothetical protein
+CLEELPEM_00150	CDS	510				hypothetical protein
+CLEELPEM_00151	CDS	1287	dctM_1		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+CLEELPEM_00152	CDS	1035				hypothetical protein
+CLEELPEM_00153	CDS	228	dltC	6.1.1.13		D-alanine--poly(phosphoribitol) ligase subunit 2
+CLEELPEM_00154	CDS	1317				hypothetical protein
+CLEELPEM_00155	CDS	834				hypothetical protein
+CLEELPEM_00156	CDS	2406	chbP	2.4.1.280		N,N'-diacetylchitobiose phosphorylase
+CLEELPEM_00157	CDS	756				hypothetical protein
+CLEELPEM_00158	CDS	1752				hypothetical protein
+CLEELPEM_00159	CDS	1689				hypothetical protein
+CLEELPEM_00160	CDS	2994				hypothetical protein
+CLEELPEM_00161	CDS	1182				hypothetical protein
+CLEELPEM_00162	CDS	1293				hypothetical protein
+CLEELPEM_00163	CDS	438				hypothetical protein
+CLEELPEM_00164	CDS	2031				hypothetical protein
+CLEELPEM_00165	CDS	1239				hypothetical protein
+CLEELPEM_00166	CDS	1623	cheB_1	3.1.1.61		Chemotaxis response regulator protein-glutamate methylesterase
+CLEELPEM_00167	CDS	1470				hypothetical protein
+CLEELPEM_00168	CDS	1017	fruE		COG1879	Fructose import binding protein FruE
+CLEELPEM_00169	CDS	1518	fruK	3.6.3.17	COG1129	Fructose import ATP-binding protein FruK
+CLEELPEM_00170	CDS	1071	fruF			Fructose import permease protein FruF
+CLEELPEM_00171	CDS	1029	yjfF			Inner membrane ABC transporter permease protein YjfF
+CLEELPEM_00172	CDS	1065	ytfQ			ABC transporter periplasmic-binding protein YtfQ
+CLEELPEM_00173	CDS	1929				hypothetical protein
+CLEELPEM_00174	CDS	1788				hypothetical protein
+CLEELPEM_00175	CDS	426				hypothetical protein
+CLEELPEM_00176	CDS	1974				hypothetical protein
+CLEELPEM_00177	CDS	2109	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+CLEELPEM_00178	CDS	648				hypothetical protein
+CLEELPEM_00179	CDS	810				hypothetical protein
+CLEELPEM_00180	CDS	192				hypothetical protein
+CLEELPEM_00181	CDS	1647				hypothetical protein
+CLEELPEM_00182	CDS	708	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+CLEELPEM_00183	CDS	945				hypothetical protein
+CLEELPEM_00184	CDS	462				hypothetical protein
+CLEELPEM_00185	CDS	2349	feoB_2		COG0370	Fe(2+) transporter FeoB
+CLEELPEM_00186	CDS	699	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+CLEELPEM_00187	CDS	1428	ycaM		COG0531	Inner membrane transporter YcaM
+CLEELPEM_00188	CDS	1320	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+CLEELPEM_00189	CDS	588				hypothetical protein
+CLEELPEM_00190	CDS	1152				hypothetical protein
+CLEELPEM_00191	CDS	369				hypothetical protein
+CLEELPEM_00192	CDS	474	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+CLEELPEM_00193	CDS	486	yrdA		COG0663	Protein YrdA
+CLEELPEM_00194	CDS	1797	lacZ_1	3.2.1.23		Beta-galactosidase
+CLEELPEM_00195	CDS	537				hypothetical protein
+CLEELPEM_00196	CDS	576				hypothetical protein
+CLEELPEM_00197	CDS	1365				hypothetical protein
+CLEELPEM_00198	CDS	1350			COG1167	Putative aminotransferase/MSMEI_6121
+CLEELPEM_00199	CDS	2340	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CLEELPEM_00200	CDS	1899	uvrC		COG0322	UvrABC system protein C
+CLEELPEM_00201	CDS	945	hprK	2.7.11.-		HPr kinase/phosphorylase
+CLEELPEM_00202	CDS	999	murB	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+CLEELPEM_00203	CDS	969	whiA		COG1481	Putative sporulation transcription regulator WhiA
+CLEELPEM_00204	CDS	264	ptsH_1		COG1925	Phosphocarrier protein HPr
+CLEELPEM_00205	CDS	1101				hypothetical protein
+CLEELPEM_00206	CDS	1305				hypothetical protein
+CLEELPEM_00207	CDS	663				hypothetical protein
+CLEELPEM_00208	CDS	2310	lon1	3.4.21.53	COG0466	Lon protease 1
+CLEELPEM_00209	CDS	552				hypothetical protein
+CLEELPEM_00210	CDS	393				hypothetical protein
+CLEELPEM_00211	CDS	1287		4.4.1.11	COG0626	L-methionine gamma-lyase
+CLEELPEM_00212	CDS	600	mntP		COG1971	putative manganese efflux pump MntP
+CLEELPEM_00213	CDS	1359				hypothetical protein
+CLEELPEM_00214	CDS	1284				hypothetical protein
+CLEELPEM_00215	CDS	621				hypothetical protein
+CLEELPEM_00216	CDS	3114				hypothetical protein
+CLEELPEM_00217	CDS	315				hypothetical protein
+CLEELPEM_00218	CDS	312				hypothetical protein
+CLEELPEM_00219	CDS	105				hypothetical protein
+CLEELPEM_00220	CDS	1548	opuE_1		COG0591	Osmoregulated proline transporter OpuE
+CLEELPEM_00221	CDS	435				hypothetical protein
+CLEELPEM_00222	CDS	1302	paaK_1	6.2.1.30		Phenylacetate-coenzyme A ligase
+CLEELPEM_00223	CDS	573				hypothetical protein
+CLEELPEM_00224	CDS	1752				hypothetical protein
+CLEELPEM_00225	CDS	1635		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+CLEELPEM_00226	CDS	876	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+CLEELPEM_00227	CDS	1047	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+CLEELPEM_00228	CDS	585				hypothetical protein
+CLEELPEM_00229	CDS	1545	opuE_2		COG0591	Osmoregulated proline transporter OpuE
+CLEELPEM_00230	CDS	1365	mepA_1			Multidrug export protein MepA
+CLEELPEM_00231	CDS	318	rpsJ		COG0051	30S ribosomal protein S10
+CLEELPEM_00232	CDS	879				hypothetical protein
+CLEELPEM_00233	CDS	687				hypothetical protein
+CLEELPEM_00234	CDS	963				hypothetical protein
+CLEELPEM_00235	CDS	1017				hypothetical protein
+CLEELPEM_00236	CDS	933	cysK_1	2.5.1.47		Cysteine synthase
+CLEELPEM_00237	CDS	1800	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+CLEELPEM_00238	CDS	480	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+CLEELPEM_00239	CDS	732				hypothetical protein
+CLEELPEM_00240	CDS	1080				hypothetical protein
+CLEELPEM_00241	CDS	648				hypothetical protein
+CLEELPEM_00242	CDS	726				hypothetical protein
+CLEELPEM_00243	CDS	273				hypothetical protein
+CLEELPEM_00244	CDS	606	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+CLEELPEM_00245	CDS	696				hypothetical protein
+CLEELPEM_00246	CDS	798	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+CLEELPEM_00247	CDS	450				hypothetical protein
+CLEELPEM_00248	CDS	555	srlA		COG3730	PTS system glucitol/sorbitol-specific EIIC component
+CLEELPEM_00249	CDS	1023	srlE	2.7.1.198	COG3732	PTS system glucitol/sorbitol-specific EIIB component
+CLEELPEM_00250	CDS	375	srlB		COG3731	PTS system glucitol/sorbitol-specific EIIA component
+CLEELPEM_00251	CDS	1920	licR		COG1762	putative licABCH operon regulator
+CLEELPEM_00252	CDS	1404				hypothetical protein
+CLEELPEM_00253	CDS	1131	nanK	2.7.1.60		N-acetylmannosamine kinase
+CLEELPEM_00254	CDS	1395				hypothetical protein
+CLEELPEM_00255	CDS	234				hypothetical protein
+CLEELPEM_00256	CDS	1476				hypothetical protein
+CLEELPEM_00257	CDS	705	comB	3.1.3.71		2-phosphosulfolactate phosphatase
+CLEELPEM_00258	CDS	786				Iron-sulfur cluster carrier protein
+CLEELPEM_00259	CDS	717				hypothetical protein
+CLEELPEM_00260	CDS	381				hypothetical protein
+CLEELPEM_00261	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+CLEELPEM_00262	CDS	744				hypothetical protein
+CLEELPEM_00263	CDS	327				hypothetical protein
+CLEELPEM_00264	CDS	681				hypothetical protein
+CLEELPEM_00265	CDS	654	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+CLEELPEM_00266	CDS	624	dhaL	2.7.1.121	COG2376	PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+CLEELPEM_00267	CDS	390	dhaM	3.5.1.-		Protein-lysine deacetylase
+CLEELPEM_00268	CDS	999	dhaK	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+CLEELPEM_00269	CDS	858	lacX			Protein LacX, plasmid
+CLEELPEM_00270	CDS	1188				hypothetical protein
+CLEELPEM_00271	CDS	1464				hypothetical protein
+CLEELPEM_00272	CDS	174				hypothetical protein
+CLEELPEM_00273	CDS	882				hypothetical protein
+CLEELPEM_00274	CDS	1260				hypothetical protein
+CLEELPEM_00275	CDS	1887				hypothetical protein
+CLEELPEM_00276	CDS	306				hypothetical protein
+CLEELPEM_00277	CDS	3561				hypothetical protein
+CLEELPEM_00278	CDS	2769				hypothetical protein
+CLEELPEM_00279	CDS	495				hypothetical protein
+CLEELPEM_00280	CDS	201	cspLA		COG1278	Cold shock-like protein CspLA
+CLEELPEM_00281	CDS	222				hypothetical protein
+CLEELPEM_00282	CDS	825				hypothetical protein
+CLEELPEM_00283	CDS	774	dapB	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+CLEELPEM_00284	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CLEELPEM_00285	CDS	1770	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+CLEELPEM_00286	CDS	690	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+CLEELPEM_00287	CDS	3828	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+CLEELPEM_00288	CDS	579				hypothetical protein
+CLEELPEM_00289	tRNA	72				tRNA-Trp(cca)
+CLEELPEM_00290	CDS	432				hypothetical protein
+CLEELPEM_00291	CDS	1374	radA	3.6.4.-	COG1066	DNA repair protein RadA
+CLEELPEM_00292	CDS	2397	clpC		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpC
+CLEELPEM_00293	CDS	384	ytrA_1		COG1725	HTH-type transcriptional repressor YtrA
+CLEELPEM_00294	CDS	1458	zipA			Cell division protein ZipA
+CLEELPEM_00295	CDS	123				hypothetical protein
+CLEELPEM_00296	CDS	1158	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+CLEELPEM_00297	CDS	636	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+CLEELPEM_00298	CDS	1026	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+CLEELPEM_00299	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+CLEELPEM_00300	CDS	2094				hypothetical protein
+CLEELPEM_00301	CDS	678	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+CLEELPEM_00302	CDS	690	pyrF	4.1.1.23		Orotidine 5'-phosphate decarboxylase
+CLEELPEM_00303	CDS	1392				hypothetical protein
+CLEELPEM_00304	CDS	870				hypothetical protein
+CLEELPEM_00305	CDS	732	cysA	3.6.3.25	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+CLEELPEM_00306	CDS	918				hypothetical protein
+CLEELPEM_00307	CDS	711	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+CLEELPEM_00308	CDS	2391	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+CLEELPEM_00309	CDS	561	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+CLEELPEM_00310	CDS	495				hypothetical protein
+CLEELPEM_00311	CDS	435				hypothetical protein
+CLEELPEM_00312	CDS	1374	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+CLEELPEM_00313	CDS	1278	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+CLEELPEM_00314	CDS	1248	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+CLEELPEM_00315	CDS	600				hypothetical protein
+CLEELPEM_00316	CDS	582	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+CLEELPEM_00317	CDS	471				hypothetical protein
+CLEELPEM_00318	CDS	960				hypothetical protein
+CLEELPEM_00319	CDS	1122				hypothetical protein
+CLEELPEM_00320	CDS	1290				hypothetical protein
+CLEELPEM_00321	CDS	450				hypothetical protein
+CLEELPEM_00322	CDS	849				DegV domain-containing protein
+CLEELPEM_00323	CDS	573	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+CLEELPEM_00324	CDS	1698				hypothetical protein
+CLEELPEM_00325	CDS	726				hypothetical protein
+CLEELPEM_00326	CDS	690	sapB		COG1285	Protein SapB
+CLEELPEM_00327	CDS	1026				hypothetical protein
+CLEELPEM_00328	CDS	756	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+CLEELPEM_00329	CDS	606				hypothetical protein
+CLEELPEM_00330	CDS	1314				hypothetical protein
+CLEELPEM_00331	CDS	1035				hypothetical protein
+CLEELPEM_00332	CDS	1458	pncB2	6.3.4.21		Nicotinate phosphoribosyltransferase pncB2
+CLEELPEM_00333	CDS	3561	mfd	3.6.4.-		Transcription-repair-coupling factor
+CLEELPEM_00334	CDS	711	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+CLEELPEM_00335	CDS	1365			COG2256	putative AAA domain-containing protein
+CLEELPEM_00336	CDS	513				hypothetical protein
+CLEELPEM_00337	CDS	1362	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+CLEELPEM_00338	CDS	576	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+CLEELPEM_00339	CDS	1476				hypothetical protein
+CLEELPEM_00340	CDS	291				hypothetical protein
+CLEELPEM_00341	CDS	1164	purA_1	6.3.4.4	COG0104	Adenylosuccinate synthetase
+CLEELPEM_00342	CDS	1062				hypothetical protein
+CLEELPEM_00343	CDS	624				hypothetical protein
+CLEELPEM_00344	CDS	645	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+CLEELPEM_00345	CDS	786				hypothetical protein
+CLEELPEM_00346	tRNA	73				tRNA-Glu(ctc)
+CLEELPEM_00347	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+CLEELPEM_00348	CDS	4779	polC_1	2.7.7.7		DNA polymerase III PolC-type
+CLEELPEM_00349	CDS	1062	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+CLEELPEM_00350	CDS	1059				hypothetical protein
+CLEELPEM_00351	CDS	771				hypothetical protein
+CLEELPEM_00352	CDS	204				hypothetical protein
+CLEELPEM_00353	CDS	1458	scrB	3.2.1.26		Sucrose-6-phosphate hydrolase
+CLEELPEM_00354	CDS	1317				hypothetical protein
+CLEELPEM_00355	CDS	1293				hypothetical protein
+CLEELPEM_00356	CDS	888				hypothetical protein
+CLEELPEM_00357	CDS	1188				hypothetical protein
+CLEELPEM_00358	CDS	849	mscS		COG0668	Small-conductance mechanosensitive channel
+CLEELPEM_00359	CDS	492				hypothetical protein
+CLEELPEM_00360	CDS	1020	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+CLEELPEM_00361	CDS	1554	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+CLEELPEM_00362	CDS	921	rhaS_2			HTH-type transcriptional activator RhaS
+CLEELPEM_00363	CDS	2295				hypothetical protein
+CLEELPEM_00364	CDS	90				hypothetical protein
+CLEELPEM_00365	CDS	618				hypothetical protein
+CLEELPEM_00366	CDS	1347		2.8.3.-	COG0427	Butanoate coenzyme A-transferase
+CLEELPEM_00367	CDS	321	trxA			Thioredoxin 1
+CLEELPEM_00368	CDS	915	trxB	1.8.1.9		Thioredoxin reductase
+CLEELPEM_00369	CDS	255				hypothetical protein
+CLEELPEM_00370	CDS	2451	metH	2.1.1.13	COG0646	Methionine synthase
+CLEELPEM_00371	CDS	720				hypothetical protein
+CLEELPEM_00372	CDS	864	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+CLEELPEM_00373	CDS	969				hypothetical protein
+CLEELPEM_00374	CDS	714	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+CLEELPEM_00375	CDS	1695	uvrB			UvrABC system protein B
+CLEELPEM_00376	CDS	336	uvrA_1			UvrABC system protein A
+CLEELPEM_00377	CDS	2547	uvrA_2			UvrABC system protein A
+CLEELPEM_00378	CDS	2310	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+CLEELPEM_00379	CDS	480				hypothetical protein
+CLEELPEM_00380	CDS	396				hypothetical protein
+CLEELPEM_00381	CDS	1026				hypothetical protein
+CLEELPEM_00382	CDS	897	dacA	2.7.7.85	COG1624	Diadenylate cyclase
+CLEELPEM_00383	CDS	1008				hypothetical protein
+CLEELPEM_00384	CDS	267	ptsH_2		COG1925	Phosphocarrier protein HPr
+CLEELPEM_00385	CDS	1353	cca	2.7.7.72		CCA-adding enzyme
+CLEELPEM_00386	CDS	276	hup			DNA-binding protein HU
+CLEELPEM_00387	CDS	240				hypothetical protein
+CLEELPEM_00388	CDS	306				hypothetical protein
+CLEELPEM_00389	CDS	966				hypothetical protein
+CLEELPEM_00390	CDS	126				hypothetical protein
+CLEELPEM_00391	CDS	876	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+CLEELPEM_00392	CDS	1635				hypothetical protein
+CLEELPEM_00393	CDS	789				hypothetical protein
+CLEELPEM_00394	CDS	627				hypothetical protein
+CLEELPEM_00395	CDS	324				hypothetical protein
+CLEELPEM_00396	CDS	1191	ghrB_1	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+CLEELPEM_00397	CDS	972	rbsB		COG1879	Ribose import binding protein RbsB
+CLEELPEM_00398	CDS	1317				hypothetical protein
+CLEELPEM_00399	CDS	681	nreC		COG2197	Oxygen regulatory protein NreC
+CLEELPEM_00400	CDS	1317				hypothetical protein
+CLEELPEM_00401	CDS	432	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+CLEELPEM_00402	CDS	495	manX_2	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+CLEELPEM_00403	CDS	849				hypothetical protein
+CLEELPEM_00404	CDS	837	manZ_1		COG3716	PTS system mannose-specific EIID component
+CLEELPEM_00405	CDS	423				hypothetical protein
+CLEELPEM_00406	CDS	1689	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+CLEELPEM_00407	CDS	330	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+CLEELPEM_00408	CDS	819	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+CLEELPEM_00409	CDS	1395	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+CLEELPEM_00410	CDS	864	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+CLEELPEM_00411	CDS	1521	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+CLEELPEM_00412	CDS	540	atpH			ATP synthase subunit delta, sodium ion specific
+CLEELPEM_00413	CDS	501	atpF			ATP synthase subunit b, sodium ion specific
+CLEELPEM_00414	CDS	282	atpE			ATP synthase subunit c, sodium ion specific
+CLEELPEM_00415	CDS	768	atpB		COG0356	ATP synthase subunit a
+CLEELPEM_00416	CDS	426				hypothetical protein
+CLEELPEM_00417	CDS	4056				hypothetical protein
+CLEELPEM_00418	CDS	582				hypothetical protein
+CLEELPEM_00419	CDS	1038				hypothetical protein
+CLEELPEM_00420	CDS	639				hypothetical protein
+CLEELPEM_00421	CDS	1611	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+CLEELPEM_00422	CDS	576	folT			Folate transporter FolT
+CLEELPEM_00423	CDS	972				hypothetical protein
+CLEELPEM_00424	CDS	1593	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+CLEELPEM_00425	CDS	180				hypothetical protein
+CLEELPEM_00426	CDS	936	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+CLEELPEM_00427	CDS	1050				hypothetical protein
+CLEELPEM_00428	CDS	1398	pqqE			Coenzyme PQQ synthesis protein E
+CLEELPEM_00429	CDS	1299				hypothetical protein
+CLEELPEM_00430	CDS	1146	fieF			Ferrous-iron efflux pump FieF
+CLEELPEM_00431	CDS	882				hypothetical protein
+CLEELPEM_00432	CDS	1308				hypothetical protein
+CLEELPEM_00433	CDS	657				hypothetical protein
+CLEELPEM_00434	CDS	729				hypothetical protein
+CLEELPEM_00435	CDS	171				hypothetical protein
+CLEELPEM_00436	CDS	657				hypothetical protein
+CLEELPEM_00437	CDS	1500				hypothetical protein
+CLEELPEM_00438	CDS	501				hypothetical protein
+CLEELPEM_00439	CDS	435				hypothetical protein
+CLEELPEM_00440	CDS	1875				hypothetical protein
+CLEELPEM_00441	CDS	483	cinA		COG1058	CinA-like protein
+CLEELPEM_00442	CDS	615				hypothetical protein
+CLEELPEM_00443	CDS	786				hypothetical protein
+CLEELPEM_00444	CDS	270				hypothetical protein
+CLEELPEM_00445	CDS	1239				hypothetical protein
+CLEELPEM_00446	CDS	1038	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+CLEELPEM_00447	CDS	2076	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+CLEELPEM_00448	CDS	528				hypothetical protein
+CLEELPEM_00449	CDS	1743	ymdB_1	3.5.1.-		O-acetyl-ADP-ribose deacetylase
+CLEELPEM_00450	CDS	1758				hypothetical protein
+CLEELPEM_00451	CDS	1494	miaB	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+CLEELPEM_00452	CDS	792				hypothetical protein
+CLEELPEM_00453	CDS	414				hypothetical protein
+CLEELPEM_00454	CDS	633				hypothetical protein
+CLEELPEM_00455	CDS	105				hypothetical protein
+CLEELPEM_00456	CDS	642				hypothetical protein
+CLEELPEM_00457	CDS	1260				hypothetical protein
+CLEELPEM_00458	CDS	594				hypothetical protein
+CLEELPEM_00459	CDS	2109	glgX_1	3.2.1.-		Glycogen debranching enzyme
+CLEELPEM_00460	CDS	1311				hypothetical protein
+CLEELPEM_00461	CDS	1881	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+CLEELPEM_00462	CDS	1452	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+CLEELPEM_00463	CDS	438	yncF	3.6.1.23	COG0756	putative deoxyuridine 5'-triphosphate nucleotidohydrolase YncF
+CLEELPEM_00464	CDS	459	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+CLEELPEM_00465	CDS	1671	mutS			DNA mismatch repair protein MutS
+CLEELPEM_00466	CDS	237				hypothetical protein
+CLEELPEM_00467	CDS	1038				hypothetical protein
+CLEELPEM_00468	CDS	699	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+CLEELPEM_00469	CDS	2238	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+CLEELPEM_00470	CDS	807	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+CLEELPEM_00471	CDS	387				hypothetical protein
+CLEELPEM_00472	CDS	993	manX_3	2.7.1.191		PTS system mannose-specific EIIAB component
+CLEELPEM_00473	CDS	807	sorA		COG3715	PTS system sorbose-specific EIIC component
+CLEELPEM_00474	CDS	933	manZ_2		COG3716	PTS system mannose-specific EIID component
+CLEELPEM_00475	CDS	423				hypothetical protein
+CLEELPEM_00476	CDS	873	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CLEELPEM_00477	tRNA	74				tRNA-Gly(gcc)
+CLEELPEM_00478	CDS	714	prsW	3.4.-.-	COG2339	Protease PrsW
+CLEELPEM_00479	CDS	1311		3.2.1.54		Cyclomaltodextrinase
+CLEELPEM_00480	CDS	2436				hypothetical protein
+CLEELPEM_00481	CDS	1011	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+CLEELPEM_00482	CDS	1335	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+CLEELPEM_00483	CDS	1203	rlmL_2	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+CLEELPEM_00484	CDS	651	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+CLEELPEM_00485	CDS	486		3.1.4.-		Putative metallophosphoesterase MG207 
+CLEELPEM_00486	tRNA	82				tRNA-Leu(tag)
+CLEELPEM_00487	tRNA	74				tRNA-Lys(ttt)
+CLEELPEM_00488	tRNA	73				tRNA-Gln(ttg)
+CLEELPEM_00489	tRNA	75				tRNA-His(gtg)
+CLEELPEM_00490	tRNA	76				tRNA-Arg(tct)
+CLEELPEM_00491	tRNA	71				tRNA-Gly(tcc)
+CLEELPEM_00492	tRNA	75				tRNA-Pro(tgg)
+CLEELPEM_00493	CDS	429				hypothetical protein
+CLEELPEM_00494	CDS	159				hypothetical protein
+CLEELPEM_00495	CDS	2277				hypothetical protein
+CLEELPEM_00496	CDS	1047	gpsA_2	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CLEELPEM_00497	CDS	1080	degA		COG1609	HTH-type transcriptional regulator DegA
+CLEELPEM_00498	CDS	1392	pyrP			Uracil permease
+CLEELPEM_00499	CDS	540				hypothetical protein
+CLEELPEM_00500	CDS	600				hypothetical protein
+CLEELPEM_00501	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+CLEELPEM_00502	CDS	510				hypothetical protein
+CLEELPEM_00503	CDS	1371	yclM_1	2.7.2.4	COG0527	Aspartokinase 3
+CLEELPEM_00504	CDS	1215	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+CLEELPEM_00505	CDS	516				hypothetical protein
+CLEELPEM_00506	CDS	1821				hypothetical protein
+CLEELPEM_00507	CDS	255				hypothetical protein
+CLEELPEM_00508	CDS	1293	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_00509	CDS	687	cusR		COG0745	Transcriptional regulatory protein CusR
+CLEELPEM_00510	CDS	738				hypothetical protein
+CLEELPEM_00511	CDS	672				hypothetical protein
+CLEELPEM_00512	CDS	1302				hypothetical protein
+CLEELPEM_00513	CDS	147				hypothetical protein
+CLEELPEM_00514	CDS	903				hypothetical protein
+CLEELPEM_00515	CDS	1170	resA			Thiol-disulfide oxidoreductase ResA
+CLEELPEM_00516	CDS	1878	glgA_1	2.4.1.21		Glycogen synthase
+CLEELPEM_00517	CDS	888	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+CLEELPEM_00518	CDS	756	fhuC	3.6.3.34	COG1120	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+CLEELPEM_00519	CDS	954	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+CLEELPEM_00520	CDS	981				hypothetical protein
+CLEELPEM_00521	CDS	525	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+CLEELPEM_00522	CDS	1311	pyrC	3.5.2.3	COG0044	Dihydroorotase
+CLEELPEM_00523	CDS	747				hypothetical protein
+CLEELPEM_00524	CDS	789	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+CLEELPEM_00525	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+CLEELPEM_00526	CDS	885	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+CLEELPEM_00527	CDS	708	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+CLEELPEM_00528	CDS	831	racE	5.1.1.3	COG0796	Glutamate racemase 1
+CLEELPEM_00529	CDS	420				hypothetical protein
+CLEELPEM_00530	CDS	483				hypothetical protein
+CLEELPEM_00531	CDS	1341	tig_1	5.2.1.8		Trigger factor
+CLEELPEM_00532	CDS	1404	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+CLEELPEM_00533	CDS	1554	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+CLEELPEM_00534	CDS	840	fbaA	4.1.2.13	COG0191	putative fructose-bisphosphate aldolase
+CLEELPEM_00535	CDS	645		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+CLEELPEM_00536	CDS	1152				hypothetical protein
+CLEELPEM_00537	CDS	177				hypothetical protein
+CLEELPEM_00538	CDS	573				hypothetical protein
+CLEELPEM_00539	CDS	1293				hypothetical protein
+CLEELPEM_00540	CDS	3444				hypothetical protein
+CLEELPEM_00541	CDS	651				hypothetical protein
+CLEELPEM_00542	CDS	1653				hypothetical protein
+CLEELPEM_00543	CDS	732	natA		COG4555	ABC transporter ATP-binding protein NatA
+CLEELPEM_00544	CDS	2547				hypothetical protein
+CLEELPEM_00545	CDS	156				Rubredoxin
+CLEELPEM_00546	CDS	1506	sacA_2	3.2.1.26		Sucrose-6-phosphate hydrolase
+CLEELPEM_00547	CDS	333				hypothetical protein
+CLEELPEM_00548	CDS	498				hypothetical protein
+CLEELPEM_00549	CDS	945	glcK	2.7.1.2	COG1940	Glucokinase
+CLEELPEM_00550	CDS	378				hypothetical protein
+CLEELPEM_00551	CDS	942				hypothetical protein
+CLEELPEM_00552	CDS	465				hypothetical protein
+CLEELPEM_00553	CDS	969	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+CLEELPEM_00554	CDS	1116				hypothetical protein
+CLEELPEM_00555	CDS	135				hypothetical protein
+CLEELPEM_00556	CDS	633	mecA_1			Adapter protein MecA
+CLEELPEM_00557	CDS	3537	por	1.2.7.1	COG0674	Pyruvate synthase
+CLEELPEM_00558	CDS	171	fer			Ferredoxin
+CLEELPEM_00559	CDS	438				hypothetical protein
+CLEELPEM_00560	CDS	1335	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+CLEELPEM_00561	CDS	447	rplI			50S ribosomal protein L9
+CLEELPEM_00562	CDS	2043	gdpP	3.1.4.-	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+CLEELPEM_00563	CDS	261	rpsR			30S ribosomal protein S18
+CLEELPEM_00564	CDS	516	ssbA		COG0629	Single-stranded DNA-binding protein A
+CLEELPEM_00565	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+CLEELPEM_00566	CDS	660	eda		COG0800	Putative KHG/KDPG aldolase
+CLEELPEM_00567	CDS	189				hypothetical protein
+CLEELPEM_00568	CDS	2079				hypothetical protein
+CLEELPEM_00569	CDS	3312	smc_1			Chromosome partition protein Smc
+CLEELPEM_00570	CDS	1683	pgcA	5.4.2.2		Phosphoglucomutase
+CLEELPEM_00571	CDS	1602				hypothetical protein
+CLEELPEM_00572	CDS	1350				hypothetical protein
+CLEELPEM_00573	CDS	1098				hypothetical protein
+CLEELPEM_00574	CDS	735				hypothetical protein
+CLEELPEM_00575	CDS	714				hypothetical protein
+CLEELPEM_00576	CDS	600	flr			Flavoredoxin
+CLEELPEM_00577	CDS	1665				hypothetical protein
+CLEELPEM_00578	CDS	420				hypothetical protein
+CLEELPEM_00579	CDS	1356	citZ	2.3.3.16	COG0372	Citrate synthase 2
+CLEELPEM_00580	CDS	447	cdd	3.5.4.5	COG0295	Cytidine deaminase
+CLEELPEM_00581	CDS	339				hypothetical protein
+CLEELPEM_00582	CDS	2766	polA	2.7.7.7		DNA polymerase I
+CLEELPEM_00583	CDS	612	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+CLEELPEM_00584	CDS	798	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+CLEELPEM_00585	CDS	276				hypothetical protein
+CLEELPEM_00586	CDS	1365				hypothetical protein
+CLEELPEM_00587	CDS	987	scrK	2.7.1.4	COG0524	Fructokinase
+CLEELPEM_00588	CDS	2451	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+CLEELPEM_00589	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+CLEELPEM_00590	CDS	1896	scpA			Segregation and condensation protein A
+CLEELPEM_00591	CDS	327	scpB		COG1386	Segregation and condensation protein B
+CLEELPEM_00592	CDS	1422	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+CLEELPEM_00593	CDS	768				hypothetical protein
+CLEELPEM_00594	CDS	375				hypothetical protein
+CLEELPEM_00595	CDS	1146	gcdB	4.1.1.70	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+CLEELPEM_00596	CDS	1401		2.1.3.1	COG5016	Methylmalonyl-CoA carboxyltransferase 5S subunit
+CLEELPEM_00597	CDS	1734	glgX_2	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+CLEELPEM_00598	CDS	810	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+CLEELPEM_00599	CDS	1659	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_00600	CDS	606	hisH	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+CLEELPEM_00601	CDS	765	hisF	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+CLEELPEM_00602	CDS	2385				hypothetical protein
+CLEELPEM_00603	CDS	681	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+CLEELPEM_00604	CDS	1344	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+CLEELPEM_00605	tRNA	84				tRNA-Leu(caa)
+CLEELPEM_00606	CDS	1293				hypothetical protein
+CLEELPEM_00607	CDS	753				hypothetical protein
+CLEELPEM_00608	CDS	1974	yfhM		COG2373	putative lipoprotein YfhM
+CLEELPEM_00609	CDS	495				hypothetical protein
+CLEELPEM_00610	CDS	729	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+CLEELPEM_00611	CDS	2517	uvrA_3		COG0178	UvrABC system protein A
+CLEELPEM_00612	CDS	1332				hypothetical protein
+CLEELPEM_00613	CDS	2166				hypothetical protein
+CLEELPEM_00614	CDS	405				hypothetical protein
+CLEELPEM_00615	CDS	813				hypothetical protein
+CLEELPEM_00616	CDS	504				hypothetical protein
+CLEELPEM_00617	CDS	534				hypothetical protein
+CLEELPEM_00618	CDS	1521	malQ_1	2.4.1.25	COG1640	4-alpha-glucanotransferase
+CLEELPEM_00619	CDS	777				hypothetical protein
+CLEELPEM_00620	CDS	864	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+CLEELPEM_00621	CDS	912	lacF_1			Lactose transport system permease protein LacF
+CLEELPEM_00622	CDS	1428				hypothetical protein
+CLEELPEM_00623	CDS	1020	exuR_1		COG1609	putative HTH-type transcriptional repressor ExuR
+CLEELPEM_00624	CDS	1578				hypothetical protein
+CLEELPEM_00625	CDS	834	pdxK	2.7.1.35		Pyridoxine kinase
+CLEELPEM_00626	CDS	1038	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+CLEELPEM_00627	CDS	786	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+CLEELPEM_00628	CDS	1158	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+CLEELPEM_00629	CDS	873	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+CLEELPEM_00630	CDS	507	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+CLEELPEM_00631	CDS	255	menB	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+CLEELPEM_00632	CDS	1185	thlA_1	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+CLEELPEM_00633	CDS	528	hpf		COG1544	Ribosome hibernation promotion factor
+CLEELPEM_00634	CDS	1191				hypothetical protein
+CLEELPEM_00635	CDS	1425				hypothetical protein
+CLEELPEM_00636	CDS	1968	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+CLEELPEM_00637	CDS	1371	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_00638	CDS	681	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+CLEELPEM_00639	CDS	132				hypothetical protein
+CLEELPEM_00640	CDS	999	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+CLEELPEM_00641	tRNA	85				tRNA-Leu(taa)
+CLEELPEM_00642	tRNA	75				tRNA-Met(cat)
+CLEELPEM_00643	tRNA	72				tRNA-Glu(ttc)
+CLEELPEM_00644	tRNA	74				tRNA-Asn(gtt)
+CLEELPEM_00645	CDS	1140				hypothetical protein
+CLEELPEM_00646	CDS	1608				hypothetical protein
+CLEELPEM_00647	CDS	2058	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+CLEELPEM_00648	CDS	1353				hypothetical protein
+CLEELPEM_00649	CDS	759	larB	3.-.-.-	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+CLEELPEM_00650	CDS	696				hypothetical protein
+CLEELPEM_00651	CDS	930	cysK_2	2.5.1.47		Cysteine synthase
+CLEELPEM_00652	CDS	1872	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+CLEELPEM_00653	CDS	219				hypothetical protein
+CLEELPEM_00654	CDS	360	ziaR			Transcriptional repressor SmtB 
+CLEELPEM_00655	CDS	804	rsxB			Electron transport complex subunit RsxB
+CLEELPEM_00656	CDS	576	rsxA		COG4657	Electron transport complex subunit RsxA
+CLEELPEM_00657	CDS	699	rnfE		COG4660	Electron transport complex subunit RnfE
+CLEELPEM_00658	CDS	1569	rsxD			Electron transport complex subunit RsxD
+CLEELPEM_00659	CDS	1368	rnfC		COG4656	Electron transport complex subunit RnfC
+CLEELPEM_00660	CDS	594				hypothetical protein
+CLEELPEM_00661	CDS	672	tycC			Tyrocidine synthase 3
+CLEELPEM_00662	CDS	798	srfAA		COG0318	Surfactin synthase subunit 1
+CLEELPEM_00663	CDS	1203	btrK	4.1.1.95		L-glutamyl-[BtrI acyl-carrier protein] decarboxylase
+CLEELPEM_00664	CDS	1599				hypothetical protein
+CLEELPEM_00665	CDS	1044				hypothetical protein
+CLEELPEM_00666	CDS	873	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+CLEELPEM_00667	CDS	1518				hypothetical protein
+CLEELPEM_00668	CDS	456				hypothetical protein
+CLEELPEM_00669	CDS	585				hypothetical protein
+CLEELPEM_00670	CDS	357				hypothetical protein
+CLEELPEM_00671	CDS	294				hypothetical protein
+CLEELPEM_00672	CDS	948				hypothetical protein
+CLEELPEM_00673	CDS	381	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+CLEELPEM_00674	CDS	1098			COG1055	putative transporter
+CLEELPEM_00675	CDS	2160	htpG		COG0326	Chaperone protein HtpG
+CLEELPEM_00676	CDS	3612				hypothetical protein
+CLEELPEM_00677	CDS	1296				hypothetical protein
+CLEELPEM_00678	CDS	843				hypothetical protein
+CLEELPEM_00679	CDS	1410	purB	4.3.2.2		Adenylosuccinate lyase
+CLEELPEM_00680	CDS	1296	purA_2	6.3.4.4	COG0104	Adenylosuccinate synthetase
+CLEELPEM_00681	CDS	408				hypothetical protein
+CLEELPEM_00682	CDS	486				hypothetical protein
+CLEELPEM_00683	CDS	2184	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+CLEELPEM_00684	CDS	2184	btuD_1	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+CLEELPEM_00685	CDS	288	groS		COG0234	10 kDa chaperonin
+CLEELPEM_00686	CDS	1620	groL		COG0459	60 kDa chaperonin
+CLEELPEM_00687	CDS	2376	relA_1	2.7.6.5	COG0317	GTP pyrophosphokinase
+CLEELPEM_00688	CDS	1221	pepT	3.4.11.4	COG2195	Peptidase T
+CLEELPEM_00689	CDS	567				hypothetical protein
+CLEELPEM_00690	CDS	588		2.3.1.-		Putative acetyltransferase
+CLEELPEM_00691	CDS	462				hypothetical protein
+CLEELPEM_00692	CDS	405				hypothetical protein
+CLEELPEM_00693	CDS	756				hypothetical protein
+CLEELPEM_00694	CDS	624				hypothetical protein
+CLEELPEM_00695	CDS	660	vanX	3.4.13.22	COG2173	D-alanyl-D-alanine dipeptidase
+CLEELPEM_00696	CDS	582				hypothetical protein
+CLEELPEM_00697	CDS	720	sfsA		COG1489	Sugar fermentation stimulation protein A
+CLEELPEM_00698	CDS	480				hypothetical protein
+CLEELPEM_00699	CDS	1530	dinB_1	2.7.7.7		DNA polymerase IV
+CLEELPEM_00700	CDS	489	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+CLEELPEM_00701	CDS	744	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+CLEELPEM_00702	CDS	1047	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+CLEELPEM_00703	CDS	1227	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+CLEELPEM_00704	CDS	237				hypothetical protein
+CLEELPEM_00705	CDS	1521	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+CLEELPEM_00706	CDS	306				hypothetical protein
+CLEELPEM_00707	CDS	459	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+CLEELPEM_00708	CDS	267				hypothetical protein
+CLEELPEM_00709	CDS	1677	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+CLEELPEM_00710	CDS	396				hypothetical protein
+CLEELPEM_00711	CDS	729		2.1.1.-	COG4122	Putative O-methyltransferase
+CLEELPEM_00712	CDS	1251				hypothetical protein
+CLEELPEM_00713	CDS	588				hypothetical protein
+CLEELPEM_00714	CDS	864				hypothetical protein
+CLEELPEM_00715	CDS	618	lexA	3.4.21.88	COG1974	LexA repressor
+CLEELPEM_00716	CDS	648				hypothetical protein
+CLEELPEM_00717	CDS	3252				hypothetical protein
+CLEELPEM_00718	CDS	1077	xerS		COG0582	Tyrosine recombinase XerS
+CLEELPEM_00719	CDS	1527				hypothetical protein
+CLEELPEM_00720	CDS	459	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+CLEELPEM_00721	CDS	924				hypothetical protein
+CLEELPEM_00722	CDS	1038				hypothetical protein
+CLEELPEM_00723	CDS	723				hypothetical protein
+CLEELPEM_00724	CDS	378				hypothetical protein
+CLEELPEM_00725	CDS	258	cvfB			Conserved virulence factor B
+CLEELPEM_00726	CDS	1089				hypothetical protein
+CLEELPEM_00727	CDS	1302		3.4.21.-		putative CtpA-like serine protease
+CLEELPEM_00728	CDS	711				hypothetical protein
+CLEELPEM_00729	CDS	678				hypothetical protein
+CLEELPEM_00730	CDS	1938				hypothetical protein
+CLEELPEM_00731	CDS	177				hypothetical protein
+CLEELPEM_00732	CDS	1224				hypothetical protein
+CLEELPEM_00733	CDS	1440				hypothetical protein
+CLEELPEM_00734	CDS	1353	mepA_2			Multidrug export protein MepA
+CLEELPEM_00735	CDS	888				hypothetical protein
+CLEELPEM_00736	CDS	951				hypothetical protein
+CLEELPEM_00737	CDS	1098				hypothetical protein
+CLEELPEM_00738	CDS	477				hypothetical protein
+CLEELPEM_00739	CDS	873				hypothetical protein
+CLEELPEM_00740	CDS	1002				hypothetical protein
+CLEELPEM_00741	CDS	666	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+CLEELPEM_00742	CDS	792	udp	2.4.2.3	COG2820	Uridine phosphorylase
+CLEELPEM_00743	CDS	966	psuK	2.7.1.83	COG0524	Pseudouridine kinase
+CLEELPEM_00744	CDS	660	udk_1	2.7.1.48	COG0572	Uridine kinase
+CLEELPEM_00745	CDS	615				hypothetical protein
+CLEELPEM_00746	CDS	1092	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+CLEELPEM_00747	CDS	1596	pyrG	6.3.4.2		CTP synthase
+CLEELPEM_00748	CDS	585				hypothetical protein
+CLEELPEM_00749	CDS	1236	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+CLEELPEM_00750	CDS	1464	gltB_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+CLEELPEM_00751	CDS	4500	gltB_2	1.4.7.1		Ferredoxin-dependent glutamate synthase 1
+CLEELPEM_00752	CDS	2097	glnA_2	6.3.1.2		Glutamine synthetase
+CLEELPEM_00753	CDS	768	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+CLEELPEM_00754	CDS	972				hypothetical protein
+CLEELPEM_00755	CDS	1041				hypothetical protein
+CLEELPEM_00756	CDS	594	gmk_1	2.7.4.8		Guanylate kinase
+CLEELPEM_00757	CDS	1419	pyk_1	2.7.1.40		Pyruvate kinase
+CLEELPEM_00758	CDS	1191	fprA1	1.6.3.4	COG0426	Flavo-diiron protein FprA1
+CLEELPEM_00759	CDS	300	ulaB	2.7.1.194		Ascorbate-specific PTS system EIIB component
+CLEELPEM_00760	CDS	456	ulaC		COG1762	Ascorbate-specific PTS system EIIA component
+CLEELPEM_00761	CDS	699	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG
+CLEELPEM_00762	CDS	264	lgt_1	2.4.99.-		Prolipoprotein diacylglyceryl transferase
+CLEELPEM_00763	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+CLEELPEM_00764	CDS	897	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+CLEELPEM_00765	CDS	2190	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+CLEELPEM_00766	CDS	741	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+CLEELPEM_00767	CDS	1053	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+CLEELPEM_00768	CDS	1347	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+CLEELPEM_00769	CDS	960	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+CLEELPEM_00770	CDS	546	def1	3.5.1.88		Peptide deformylase 1
+CLEELPEM_00771	CDS	576	priA_1	3.6.4.-	COG1198	Primosomal protein N'
+CLEELPEM_00772	CDS	936				hypothetical protein
+CLEELPEM_00773	CDS	768	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+CLEELPEM_00774	CDS	1653				hypothetical protein
+CLEELPEM_00775	CDS	678				hypothetical protein
+CLEELPEM_00776	CDS	1002	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+CLEELPEM_00777	CDS	435				hypothetical protein
+CLEELPEM_00778	CDS	555	chrA			Chromate transport protein
+CLEELPEM_00779	CDS	573	srpC		COG2059	putative chromate transport protein
+CLEELPEM_00780	CDS	1119				hypothetical protein
+CLEELPEM_00781	CDS	1347				hypothetical protein
+CLEELPEM_00782	CDS	336				hypothetical protein
+CLEELPEM_00783	CDS	1485	thrC	4.2.3.1	COG0498	Threonine synthase
+CLEELPEM_00784	CDS	1119				hypothetical protein
+CLEELPEM_00785	CDS	1155	rps1		COG0539	30S ribosomal protein S1
+CLEELPEM_00786	CDS	867	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+CLEELPEM_00787	CDS	843	cmk_2	2.7.4.25		Cytidylate kinase
+CLEELPEM_00788	CDS	816	aroK	2.7.1.71		Shikimate kinase
+CLEELPEM_00789	CDS	765	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+CLEELPEM_00790	CDS	1182	ydiM			Inner membrane transport protein YdiM
+CLEELPEM_00791	CDS	588				hypothetical protein
+CLEELPEM_00792	CDS	273				hypothetical protein
+CLEELPEM_00793	CDS	702	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+CLEELPEM_00794	CDS	1554				hypothetical protein
+CLEELPEM_00795	CDS	1449	lytR_2			Transcriptional regulator LytR
+CLEELPEM_00796	CDS	717				hypothetical protein
+CLEELPEM_00797	CDS	1242	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+CLEELPEM_00798	CDS	1860				hypothetical protein
+CLEELPEM_00799	CDS	2481				hypothetical protein
+CLEELPEM_00800	CDS	537				hypothetical protein
+CLEELPEM_00801	CDS	756	rpoS			RNA polymerase sigma factor RpoS
+CLEELPEM_00802	CDS	414				hypothetical protein
+CLEELPEM_00803	CDS	1638	malL_2	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+CLEELPEM_00804	CDS	1524				hypothetical protein
+CLEELPEM_00805	CDS	636				hypothetical protein
+CLEELPEM_00806	CDS	1308	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_00807	CDS	669	tcrA		COG0745	Transcriptional regulatory protein TcrA
+CLEELPEM_00808	CDS	624				hypothetical protein
+CLEELPEM_00809	CDS	2691				hypothetical protein
+CLEELPEM_00810	CDS	891	alsT_1		COG1115	Amino-acid carrier protein AlsT
+CLEELPEM_00811	CDS	2112				hypothetical protein
+CLEELPEM_00812	CDS	876	ribN			Riboflavin transporter
+CLEELPEM_00813	CDS	2496	add	3.5.4.4		Adenosine deaminase
+CLEELPEM_00814	CDS	594				hypothetical protein
+CLEELPEM_00815	CDS	1122				hypothetical protein
+CLEELPEM_00816	CDS	726	kdpE		COG0745	KDP operon transcriptional regulatory protein KdpE
+CLEELPEM_00817	CDS	1263				hypothetical protein
+CLEELPEM_00818	CDS	3636				hypothetical protein
+CLEELPEM_00819	CDS	768				hypothetical protein
+CLEELPEM_00820	CDS	603				hypothetical protein
+CLEELPEM_00821	CDS	1020	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+CLEELPEM_00822	CDS	1458				hypothetical protein
+CLEELPEM_00823	CDS	867				hypothetical protein
+CLEELPEM_00824	CDS	1068				hypothetical protein
+CLEELPEM_00825	CDS	933				hypothetical protein
+CLEELPEM_00826	CDS	687				hypothetical protein
+CLEELPEM_00827	CDS	327				hypothetical protein
+CLEELPEM_00828	CDS	2340				hypothetical protein
+CLEELPEM_00829	CDS	753				hypothetical protein
+CLEELPEM_00830	CDS	381				hypothetical protein
+CLEELPEM_00831	CDS	507	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+CLEELPEM_00832	CDS	615				hypothetical protein
+CLEELPEM_00833	CDS	663		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+CLEELPEM_00834	CDS	561				hypothetical protein
+CLEELPEM_00835	CDS	1038	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+CLEELPEM_00836	CDS	534	recU	3.1.22.-	COG3331	Holliday junction resolvase RecU
+CLEELPEM_00837	CDS	1149	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+CLEELPEM_00838	CDS	726	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+CLEELPEM_00839	CDS	1290	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+CLEELPEM_00840	CDS	1311	hisI	3.6.1.31		Histidine biosynthesis bifunctional protein HisIE
+CLEELPEM_00841	CDS	231				hypothetical protein
+CLEELPEM_00842	CDS	405				hypothetical protein
+CLEELPEM_00843	CDS	522	pfkA_1	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase
+CLEELPEM_00844	CDS	798	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CLEELPEM_00845	CDS	999	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+CLEELPEM_00846	CDS	1026	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+CLEELPEM_00847	CDS	369				hypothetical protein
+CLEELPEM_00848	CDS	978	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+CLEELPEM_00849	CDS	459				hypothetical protein
+CLEELPEM_00850	CDS	987			COG0330	putative protein
+CLEELPEM_00851	CDS	477	greA_1		COG0782	Transcription elongation factor GreA
+CLEELPEM_00852	CDS	1491	lysS	6.1.1.6		Lysine--tRNA ligase
+CLEELPEM_00853	CDS	1335	recA			Protein RecA
+CLEELPEM_00854	CDS	1581	rny	3.1.-.-	COG1418	Ribonuclease Y
+CLEELPEM_00855	CDS	975				hypothetical protein
+CLEELPEM_00856	CDS	1926				hypothetical protein
+CLEELPEM_00857	CDS	618	cmk_3	2.7.4.25		Cytidylate kinase
+CLEELPEM_00858	CDS	909	xerD			Tyrosine recombinase XerD
+CLEELPEM_00859	CDS	1449	glgA_2	2.4.1.21	COG0297	Glycogen synthase
+CLEELPEM_00860	CDS	186	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+CLEELPEM_00861	CDS	771	rpsB		COG0052	30S ribosomal protein S2
+CLEELPEM_00862	CDS	948	tsf		COG0264	Elongation factor Ts
+CLEELPEM_00863	CDS	627	mecA_2			Adapter protein MecA
+CLEELPEM_00864	CDS	711	rluF	5.4.99.21	COG1187	23S rRNA pseudouridine(2604) synthase
+CLEELPEM_00865	CDS	2028	ligA	6.5.1.2		DNA ligase
+CLEELPEM_00866	CDS	831	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+CLEELPEM_00867	CDS	1800	yloA		COG1293	putative protein YloA
+CLEELPEM_00868	CDS	879				hypothetical protein
+CLEELPEM_00869	CDS	264				hypothetical protein
+CLEELPEM_00870	CDS	624	gmk_2	2.7.4.8		Guanylate kinase
+CLEELPEM_00871	CDS	393	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+CLEELPEM_00872	CDS	1332	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+CLEELPEM_00873	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+CLEELPEM_00874	CDS	765				hypothetical protein
+CLEELPEM_00875	CDS	762	ubiE	2.1.1.163		Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+CLEELPEM_00876	CDS	294				hypothetical protein
+CLEELPEM_00877	CDS	372	ytrA_2		COG1725	HTH-type transcriptional repressor YtrA
+CLEELPEM_00878	CDS	1032	lacF_2			Lactose transport system permease protein LacF
+CLEELPEM_00879	CDS	1143				hypothetical protein
+CLEELPEM_00880	CDS	1518				hypothetical protein
+CLEELPEM_00881	CDS	1251				hypothetical protein
+CLEELPEM_00882	CDS	2376				hypothetical protein
+CLEELPEM_00883	CDS	402				hypothetical protein
+CLEELPEM_00884	CDS	1113				IS200/IS605 family transposase IS1341
+CLEELPEM_00885	CDS	816				hypothetical protein
+CLEELPEM_00886	CDS	771	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+CLEELPEM_00887	CDS	867	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+CLEELPEM_00888	CDS	1416				hypothetical protein
+CLEELPEM_00889	CDS	1575				hypothetical protein
+CLEELPEM_00890	CDS	1935	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+CLEELPEM_00891	CDS	390	mntR		COG1321	Transcriptional regulator MntR
+CLEELPEM_00892	CDS	618				hypothetical protein
+CLEELPEM_00893	CDS	1671	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+CLEELPEM_00894	CDS	474	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+CLEELPEM_00895	CDS	555				hypothetical protein
+CLEELPEM_00896	CDS	1413				hypothetical protein
+CLEELPEM_00897	CDS	2508	mutS2	3.1.-.-		Endonuclease MutS2
+CLEELPEM_00898	CDS	714	walR_1		COG0745	Transcriptional regulatory protein WalR
+CLEELPEM_00899	CDS	1437	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_00900	CDS	510	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+CLEELPEM_00901	CDS	1194	patA	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+CLEELPEM_00902	CDS	381				hypothetical protein
+CLEELPEM_00903	CDS	1083			COG1132	putative ABC transporter ATP-binding protein
+CLEELPEM_00904	CDS	540	bsaA			Glutathione peroxidase BsaA
+CLEELPEM_00905	CDS	933	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+CLEELPEM_00906	CDS	723				hypothetical protein
+CLEELPEM_00907	CDS	1098				hypothetical protein
+CLEELPEM_00908	CDS	1587	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+CLEELPEM_00909	CDS	843				hypothetical protein
+CLEELPEM_00910	CDS	1431	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+CLEELPEM_00911	CDS	1056	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CLEELPEM_00912	CDS	831				hypothetical protein
+CLEELPEM_00913	CDS	1056				hypothetical protein
+CLEELPEM_00914	CDS	825				hypothetical protein
+CLEELPEM_00915	CDS	1080	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+CLEELPEM_00916	CDS	1269				hypothetical protein
+CLEELPEM_00917	CDS	744	rfbX		COG2244	Putative O-antigen transporter
+CLEELPEM_00918	CDS	861	tig_2	5.2.1.8	COG0544	Trigger factor
+CLEELPEM_00919	CDS	600	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+CLEELPEM_00920	CDS	1308	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+CLEELPEM_00921	CDS	648	engB		COG0218	putative GTP-binding protein EngB
+CLEELPEM_00922	CDS	669				hypothetical protein
+CLEELPEM_00923	CDS	2679	clpB			Chaperone protein ClpB
+CLEELPEM_00924	tRNA	75				tRNA-Met(cat)
+CLEELPEM_00925	CDS	297				hypothetical protein
+CLEELPEM_00926	CDS	657				hypothetical protein
+CLEELPEM_00927	CDS	576				hypothetical protein
+CLEELPEM_00928	CDS	1212				hypothetical protein
+CLEELPEM_00929	CDS	1659	udk_2	2.7.1.48		Uridine kinase
+CLEELPEM_00930	CDS	783			COG0327	GTP cyclohydrolase 1 type 2 
+CLEELPEM_00931	CDS	792	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+CLEELPEM_00932	CDS	1134	sigA		COG0568	RNA polymerase sigma factor SigA
+CLEELPEM_00933	CDS	1611	dnaG	2.7.7.-		DNA primase
+CLEELPEM_00934	CDS	492	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+CLEELPEM_00935	CDS	999	ccpA		COG1609	Catabolite control protein A
+CLEELPEM_00936	CDS	186				hypothetical protein
+CLEELPEM_00937	CDS	1410				hypothetical protein
+CLEELPEM_00938	CDS	1293				hypothetical protein
+CLEELPEM_00939	CDS	150				hypothetical protein
+CLEELPEM_00940	CDS	186	rpmB		COG0227	50S ribosomal protein L28
+CLEELPEM_00941	CDS	363				putative protein
+CLEELPEM_00942	CDS	1713				putative protein
+CLEELPEM_00943	CDS	1356				hypothetical protein
+CLEELPEM_00944	CDS	126				hypothetical protein
+CLEELPEM_00945	CDS	885	araC			Arabinose operon regulatory protein
+CLEELPEM_00946	CDS	1419				hypothetical protein
+CLEELPEM_00947	CDS	897	panS		COG0385	Pantothenate precursors transporter PanS
+CLEELPEM_00948	CDS	585	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+CLEELPEM_00949	CDS	867	hisK_1	3.1.3.15	COG1387	Histidinol-phosphatase
+CLEELPEM_00950	CDS	678				hypothetical protein
+CLEELPEM_00951	CDS	1917	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+CLEELPEM_00952	CDS	1827				hypothetical protein
+CLEELPEM_00953	CDS	207				hypothetical protein
+CLEELPEM_00954	CDS	381				hypothetical protein
+CLEELPEM_00955	CDS	2076				hypothetical protein
+CLEELPEM_00956	CDS	666	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+CLEELPEM_00957	CDS	1191	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+CLEELPEM_00958	CDS	855	nudC_1	3.6.1.22		NADH pyrophosphatase
+CLEELPEM_00959	CDS	1329				hypothetical protein
+CLEELPEM_00960	CDS	1065				hypothetical protein
+CLEELPEM_00961	CDS	1242			COG4962	Putative conjugal transfer protein
+CLEELPEM_00962	CDS	678				hypothetical protein
+CLEELPEM_00963	CDS	1473				hypothetical protein
+CLEELPEM_00964	CDS	186				hypothetical protein
+CLEELPEM_00965	CDS	1473				hypothetical protein
+CLEELPEM_00966	CDS	927				hypothetical protein
+CLEELPEM_00967	CDS	273				hypothetical protein
+CLEELPEM_00968	CDS	480		2.6.1.1		Aspartate aminotransferase
+CLEELPEM_00969	CDS	1809				hypothetical protein
+CLEELPEM_00970	CDS	2496				hypothetical protein
+CLEELPEM_00971	CDS	474				hypothetical protein
+CLEELPEM_00972	CDS	1416				hypothetical protein
+CLEELPEM_00973	CDS	1164	dnaJ_1		COG0484	Chaperone protein DnaJ
+CLEELPEM_00974	CDS	1863	dnaK		COG0443	Chaperone protein DnaK
+CLEELPEM_00975	CDS	672	grpE			Protein GrpE
+CLEELPEM_00976	CDS	1029	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+CLEELPEM_00977	CDS	1197	aspC_1	2.6.1.1	COG0436	Aspartate aminotransferase
+CLEELPEM_00978	CDS	810				hypothetical protein
+CLEELPEM_00979	CDS	2865				hypothetical protein
+CLEELPEM_00980	CDS	1068				hypothetical protein
+CLEELPEM_00981	CDS	786	ywtE	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YwtE
+CLEELPEM_00982	CDS	879				hypothetical protein
+CLEELPEM_00983	CDS	1287				hypothetical protein
+CLEELPEM_00984	CDS	213				hypothetical protein
+CLEELPEM_00985	CDS	4620				hypothetical protein
+CLEELPEM_00986	CDS	315				hypothetical protein
+CLEELPEM_00987	CDS	798	ubiG_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+CLEELPEM_00988	CDS	336				hypothetical protein
+CLEELPEM_00989	CDS	420				hypothetical protein
+CLEELPEM_00990	CDS	357				hypothetical protein
+CLEELPEM_00991	CDS	3726	btuD_2	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+CLEELPEM_00992	CDS	1380				hypothetical protein
+CLEELPEM_00993	CDS	684				hypothetical protein
+CLEELPEM_00994	CDS	921	pdxA2	1.1.1.409	COG1995	D-erythronate 4-phosphate dehydrogenase
+CLEELPEM_00995	CDS	1065	wecH	2.3.1.-		O-acetyltransferase WecH
+CLEELPEM_00996	CDS	321	prfA		COG0216	Peptide chain release factor 1
+CLEELPEM_00997	CDS	1311				hypothetical protein
+CLEELPEM_00998	CDS	1572	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+CLEELPEM_00999	CDS	2202	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+CLEELPEM_01000	CDS	1404	purF	2.4.2.14		Amidophosphoribosyltransferase
+CLEELPEM_01001	CDS	1764	cof	3.6.1.-		HMP-PP phosphatase
+CLEELPEM_01002	CDS	1593	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+CLEELPEM_01003	CDS	618				hypothetical protein
+CLEELPEM_01004	CDS	936				hypothetical protein
+CLEELPEM_01005	CDS	2634	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+CLEELPEM_01006	CDS	261				hypothetical protein
+CLEELPEM_01007	CDS	210	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+CLEELPEM_01008	CDS	1479	cobQ		COG1492	Cobyric acid synthase
+CLEELPEM_01009	CDS	765	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+CLEELPEM_01010	CDS	876	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+CLEELPEM_01011	CDS	1305	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+CLEELPEM_01012	CDS	852	cbiA	6.3.5.9		Cobyrinate a,c-diamide synthase
+CLEELPEM_01013	CDS	522				hypothetical protein
+CLEELPEM_01014	CDS	339	dnaN			Beta sliding clamp
+CLEELPEM_01015	CDS	213				hypothetical protein
+CLEELPEM_01016	CDS	1101	recF		COG1195	DNA replication and repair protein RecF
+CLEELPEM_01017	CDS	2064	gyrB_1	5.99.1.3	COG0187	DNA gyrase subunit B
+CLEELPEM_01018	CDS	2484	gyrA_1	5.99.1.3	COG0188	DNA gyrase subunit A
+CLEELPEM_01019	CDS	1692				hypothetical protein
+CLEELPEM_01020	CDS	660	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+CLEELPEM_01021	CDS	699				hypothetical protein
+CLEELPEM_01022	CDS	504	greA_2		COG0782	Transcription elongation factor GreA
+CLEELPEM_01023	CDS	105				hypothetical protein
+CLEELPEM_01024	CDS	1599				hypothetical protein
+CLEELPEM_01025	CDS	954	thiL	2.7.4.16		Thiamine-monophosphate kinase
+CLEELPEM_01026	CDS	492				hypothetical protein
+CLEELPEM_01027	CDS	888	cbpA	2.4.1.20	COG3459	Cellobiose phosphorylase
+CLEELPEM_01028	CDS	3660	lacZ_2	3.2.1.23		Beta-galactosidase
+CLEELPEM_01029	CDS	423			COG0716	Flavodoxin
+CLEELPEM_01030	CDS	1026	idi_1	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+CLEELPEM_01031	CDS	459	yccX	3.6.1.7		Acylphosphatase
+CLEELPEM_01032	CDS	471	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+CLEELPEM_01033	CDS	810				hypothetical protein
+CLEELPEM_01034	CDS	990	dnaA			Chromosomal replication initiator protein DnaA
+CLEELPEM_01035	CDS	1224				hypothetical protein
+CLEELPEM_01036	CDS	486	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+CLEELPEM_01037	CDS	741				hypothetical protein
+CLEELPEM_01038	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+CLEELPEM_01039	CDS	960	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+CLEELPEM_01040	CDS	336				hypothetical protein
+CLEELPEM_01041	CDS	1701				hypothetical protein
+CLEELPEM_01042	CDS	3762	cheB_2	3.1.1.61		Chemotaxis response regulator protein-glutamate methylesterase
+CLEELPEM_01043	CDS	396	recN_1		COG0497	DNA repair protein RecN
+CLEELPEM_01044	CDS	1260	recN_2		COG0497	DNA repair protein RecN
+CLEELPEM_01045	CDS	657				hypothetical protein
+CLEELPEM_01046	CDS	2553	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+CLEELPEM_01047	CDS	303				hypothetical protein
+CLEELPEM_01048	CDS	1473	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+CLEELPEM_01049	CDS	720				hypothetical protein
+CLEELPEM_01050	CDS	1263	sstT_1		COG3633	Serine/threonine transporter SstT
+CLEELPEM_01051	CDS	543	carB_1	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+CLEELPEM_01052	CDS	2541	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+CLEELPEM_01053	CDS	2736				hypothetical protein
+CLEELPEM_01054	CDS	1083				hypothetical protein
+CLEELPEM_01055	CDS	1569	metG	6.1.1.10		Methionine--tRNA ligase
+CLEELPEM_01056	CDS	684				hypothetical protein
+CLEELPEM_01057	CDS	1101	sugC	3.6.3.-	COG3839	Trehalose import ATP-binding protein SugC
+CLEELPEM_01058	CDS	1089				hypothetical protein
+CLEELPEM_01059	CDS	948				hypothetical protein
+CLEELPEM_01060	CDS	870	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+CLEELPEM_01061	CDS	807				hypothetical protein
+CLEELPEM_01062	CDS	1146				TelA-like protein
+CLEELPEM_01063	CDS	1212				hypothetical protein
+CLEELPEM_01064	CDS	1233	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+CLEELPEM_01065	CDS	1125	btuD_3	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+CLEELPEM_01066	CDS	1155	nagK	2.7.1.59		N-acetyl-D-glucosamine kinase
+CLEELPEM_01067	CDS	1134	agaA_3	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+CLEELPEM_01068	CDS	729	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase 1
+CLEELPEM_01069	CDS	789				hypothetical protein
+CLEELPEM_01070	CDS	1659	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+CLEELPEM_01071	CDS	789	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+CLEELPEM_01072	CDS	168				hypothetical protein
+CLEELPEM_01073	CDS	612				hypothetical protein
+CLEELPEM_01074	CDS	810	malQ_2	2.4.1.25	COG1640	4-alpha-glucanotransferase
+CLEELPEM_01075	CDS	738	trmD_1	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+CLEELPEM_01076	CDS	249				hypothetical protein
+CLEELPEM_01077	CDS	1068				hypothetical protein
+CLEELPEM_01078	CDS	666				hypothetical protein
+CLEELPEM_01079	CDS	351				hypothetical protein
+CLEELPEM_01080	CDS	1431	dinB_2	2.7.7.7		DNA polymerase IV
+CLEELPEM_01081	CDS	1140	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+CLEELPEM_01082	CDS	1899	dxs_1	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+CLEELPEM_01083	CDS	708	apaH_1	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+CLEELPEM_01084	CDS	564				hypothetical protein
+CLEELPEM_01085	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+CLEELPEM_01086	CDS	1191	ribD		COG0117	Riboflavin biosynthesis protein RibD
+CLEELPEM_01087	CDS	1254	ymdB_2	3.5.1.-		O-acetyl-ADP-ribose deacetylase
+CLEELPEM_01088	CDS	678				hypothetical protein
+CLEELPEM_01089	CDS	405				hypothetical protein
+CLEELPEM_01090	CDS	93				hypothetical protein
+CLEELPEM_01091	CDS	336				hypothetical protein
+CLEELPEM_01092	CDS	1860	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+CLEELPEM_01093	CDS	270				hypothetical protein
+CLEELPEM_01094	CDS	1143	mtlD	1.1.1.17	COG0246	Mannitol-1-phosphate 5-dehydrogenase
+CLEELPEM_01095	CDS	1869	mtlA		COG2213	PTS system mannitol-specific EIICBA component
+CLEELPEM_01096	CDS	1044				hypothetical protein
+CLEELPEM_01097	CDS	363				hypothetical protein
+CLEELPEM_01098	CDS	1455	smc_2		COG1196	Chromosome partition protein Smc
+CLEELPEM_01099	CDS	927	ftsY		COG0552	Signal recognition particle receptor FtsY
+CLEELPEM_01100	CDS	1221	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+CLEELPEM_01101	CDS	996				hypothetical protein
+CLEELPEM_01102	CDS	342				hypothetical protein
+CLEELPEM_01103	CDS	1299	ffh		COG0541	Signal recognition particle protein
+CLEELPEM_01104	CDS	240	rpsP		COG0228	30S ribosomal protein S16
+CLEELPEM_01105	CDS	231				hypothetical protein
+CLEELPEM_01106	CDS	519	rimM			Ribosome maturation factor RimM
+CLEELPEM_01107	CDS	759	trmD_2	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+CLEELPEM_01108	CDS	354	rplS		COG0335	50S ribosomal protein L19
+CLEELPEM_01109	CDS	873	rbgA		COG1161	Ribosome biogenesis GTPase A
+CLEELPEM_01110	CDS	498				hypothetical protein
+CLEELPEM_01111	CDS	1104				hypothetical protein
+CLEELPEM_01112	CDS	1977				hypothetical protein
+CLEELPEM_01113	CDS	933				hypothetical protein
+CLEELPEM_01114	CDS	525				hypothetical protein
+CLEELPEM_01115	CDS	1425	lytR_3			Transcriptional regulator LytR
+CLEELPEM_01116	CDS	1344				hypothetical protein
+CLEELPEM_01117	CDS	1653				hypothetical protein
+CLEELPEM_01118	CDS	1509	mglA	3.6.3.17	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+CLEELPEM_01119	CDS	1335	mglB_1		COG1879	Glucose/galactose-binding lipoprotein
+CLEELPEM_01120	CDS	273	hcaR			Hca operon transcriptional activator HcaR
+CLEELPEM_01121	CDS	486				hypothetical protein
+CLEELPEM_01122	CDS	393				hypothetical protein
+CLEELPEM_01123	CDS	501				hypothetical protein
+CLEELPEM_01124	CDS	714	tarI	2.7.7.40	COG1211	Ribitol-5-phosphate cytidylyltransferase 1
+CLEELPEM_01125	CDS	888				hypothetical protein
+CLEELPEM_01126	CDS	2151				hypothetical protein
+CLEELPEM_01127	CDS	498				hypothetical protein
+CLEELPEM_01128	CDS	450				hypothetical protein
+CLEELPEM_01129	CDS	576	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+CLEELPEM_01130	CDS	474	rpe_1	5.1.3.1		Ribulose-phosphate 3-epimerase
+CLEELPEM_01131	CDS	303				hypothetical protein
+CLEELPEM_01132	CDS	468				hypothetical protein
+CLEELPEM_01133	CDS	468				hypothetical protein
+CLEELPEM_01134	CDS	588				hypothetical protein
+CLEELPEM_01135	CDS	456	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+CLEELPEM_01136	CDS	993				hypothetical protein
+CLEELPEM_01137	CDS	915				hypothetical protein
+CLEELPEM_01138	CDS	654				hypothetical protein
+CLEELPEM_01139	CDS	1509	lutP		COG1620	L-lactate permease
+CLEELPEM_01140	CDS	969	ddpX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+CLEELPEM_01141	CDS	1677				hypothetical protein
+CLEELPEM_01142	CDS	714				hypothetical protein
+CLEELPEM_01143	CDS	609	lgt_2	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+CLEELPEM_01144	CDS	435	mraZ			Transcriptional regulator MraZ
+CLEELPEM_01145	CDS	360	rsmH_1	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+CLEELPEM_01146	CDS	585	rsmH_2	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+CLEELPEM_01147	CDS	528	ftsL			Cell division protein FtsL
+CLEELPEM_01148	CDS	2040	spoVD		COG0768	Stage V sporulation protein D
+CLEELPEM_01149	CDS	978	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CLEELPEM_01150	CDS	1377	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+CLEELPEM_01151	CDS	942	ftsW_2	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+CLEELPEM_01152	CDS	246	ftsW_3	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+CLEELPEM_01153	CDS	852	ftsQ			Cell division protein FtsQ
+CLEELPEM_01154	CDS	591	pat	2.3.1.183	COG1247	Phosphinothricin N-acetyltransferase
+CLEELPEM_01155	tRNA	74				tRNA-Val(cac)
+CLEELPEM_01156	CDS	495				hypothetical protein
+CLEELPEM_01157	CDS	1485				hypothetical protein
+CLEELPEM_01158	CDS	765	coaX_1	2.7.1.33	COG1521	Type III pantothenate kinase
+CLEELPEM_01159	CDS	642	panT		COG4684	Pantothenic acid transporter PanT
+CLEELPEM_01160	CDS	555	mtcA2	4.2.1.1	COG0288	Carbonic anhydrase 2
+CLEELPEM_01161	CDS	384				hypothetical protein
+CLEELPEM_01162	CDS	228				hypothetical protein
+CLEELPEM_01163	CDS	1122				hypothetical protein
+CLEELPEM_01164	CDS	858				hypothetical protein
+CLEELPEM_01165	CDS	909	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+CLEELPEM_01166	CDS	1209	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+CLEELPEM_01167	CDS	858				hypothetical protein
+CLEELPEM_01168	CDS	699	walR_2		COG0745	Transcriptional regulatory protein WalR
+CLEELPEM_01169	CDS	1545	sasA_7	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_01170	CDS	1248	iolG	1.1.1.18		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+CLEELPEM_01171	tRNA	73				tRNA-Arg(ccg)
+CLEELPEM_01172	CDS	912				hypothetical protein
+CLEELPEM_01173	CDS	558	efp		COG0231	Elongation factor P
+CLEELPEM_01174	CDS	450	nrdR		COG1327	Transcriptional repressor NrdR
+CLEELPEM_01175	CDS	1020	pyk_2	2.7.1.40	COG0469	Pyruvate kinase
+CLEELPEM_01176	CDS	906				hypothetical protein
+CLEELPEM_01177	CDS	468				hypothetical protein
+CLEELPEM_01178	CDS	1173		5.1.3.11	COG2942	Cellobiose 2-epimerase
+CLEELPEM_01179	CDS	894	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CLEELPEM_01180	CDS	1194				hypothetical protein
+CLEELPEM_01181	CDS	738				hypothetical protein
+CLEELPEM_01182	CDS	837	yigL	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YigL
+CLEELPEM_01183	CDS	1416	treB		COG1263	PTS system trehalose-specific EIIBC component
+CLEELPEM_01184	CDS	1641	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+CLEELPEM_01185	CDS	783				hypothetical protein
+CLEELPEM_01186	CDS	921	hslO		COG1281	33 kDa chaperonin
+CLEELPEM_01187	CDS	201				hypothetical protein
+CLEELPEM_01188	CDS	3426	mhpE	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+CLEELPEM_01189	CDS	1029		3.2.1.4		Endoglucanase C307
+CLEELPEM_01190	CDS	540				hypothetical protein
+CLEELPEM_01191	CDS	753	tpiA	5.3.1.1		Triosephosphate isomerase
+CLEELPEM_01192	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+CLEELPEM_01193	CDS	1020	gapA1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase 1
+CLEELPEM_01194	CDS	864	hisK_2	3.1.3.15	COG1387	Histidinol-phosphatase
+CLEELPEM_01195	CDS	1059	fumC	4.2.1.2		Fumarate hydratase class II
+CLEELPEM_01196	CDS	2160	topB	5.99.1.2	COG0550	DNA topoisomerase 3
+CLEELPEM_01197	CDS	1086	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+CLEELPEM_01198	CDS	1389	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+CLEELPEM_01199	tRNA	74				tRNA-Thr(cgt)
+CLEELPEM_01200	CDS	1167				hypothetical protein
+CLEELPEM_01201	CDS	1164	pdxB	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+CLEELPEM_01202	CDS	876	serC	2.6.1.52		Phosphoserine aminotransferase
+CLEELPEM_01203	CDS	1686	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit
+CLEELPEM_01204	CDS	1677	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+CLEELPEM_01205	CDS	324				hypothetical protein
+CLEELPEM_01206	CDS	1140	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+CLEELPEM_01207	CDS	561				hypothetical protein
+CLEELPEM_01208	CDS	879	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+CLEELPEM_01209	CDS	984				hypothetical protein
+CLEELPEM_01210	CDS	210	rpmE		COG0254	50S ribosomal protein L31
+CLEELPEM_01211	CDS	696				hypothetical protein
+CLEELPEM_01212	CDS	1533	yqiK		COG2268	Inner membrane protein YqiK
+CLEELPEM_01213	CDS	1494	glcA		COG1620	Glycolate permease GlcA
+CLEELPEM_01214	CDS	765	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+CLEELPEM_01215	CDS	807				hypothetical protein
+CLEELPEM_01216	CDS	969				Purine-binding protein
+CLEELPEM_01217	CDS	651				hypothetical protein
+CLEELPEM_01218	CDS	402	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+CLEELPEM_01219	CDS	297				hypothetical protein
+CLEELPEM_01220	CDS	1611	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+CLEELPEM_01221	CDS	1272				hypothetical protein
+CLEELPEM_01222	CDS	1221	sstT_2		COG3633	Serine/threonine transporter SstT
+CLEELPEM_01223	CDS	588	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1
+CLEELPEM_01224	CDS	606	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+CLEELPEM_01225	CDS	1236	paaK_2	6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+CLEELPEM_01226	CDS	3219				hypothetical protein
+CLEELPEM_01227	CDS	708	cat3	2.3.1.28		Chloramphenicol acetyltransferase 3
+CLEELPEM_01228	CDS	1023				hypothetical protein
+CLEELPEM_01229	CDS	1236	patB	4.4.1.8	COG1168	Cystathionine beta-lyase PatB
+CLEELPEM_01230	CDS	1206				hypothetical protein
+CLEELPEM_01231	CDS	1353				hypothetical protein
+CLEELPEM_01232	CDS	573				hypothetical protein
+CLEELPEM_01233	CDS	609	idi_2	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+CLEELPEM_01234	CDS	1797		5.3.1.29		Putative thiazole biosynthetic enzyme
+CLEELPEM_01235	tRNA	74				tRNA-Ala(cgc)
+CLEELPEM_01236	CDS	750				hypothetical protein
+CLEELPEM_01237	CDS	1152	amyS	3.2.1.1		Alpha-amylase
+CLEELPEM_01238	CDS	1212				hypothetical protein
+CLEELPEM_01239	CDS	1176				hypothetical protein
+CLEELPEM_01240	CDS	654				hypothetical protein
+CLEELPEM_01241	CDS	2076				hypothetical protein
+CLEELPEM_01242	CDS	795				hypothetical protein
+CLEELPEM_01243	CDS	1095				hypothetical protein
+CLEELPEM_01244	CDS	597				hypothetical protein
+CLEELPEM_01245	CDS	1524				hypothetical protein
+CLEELPEM_01246	CDS	843				hypothetical protein
+CLEELPEM_01247	CDS	1845				hypothetical protein
+CLEELPEM_01248	CDS	567				hypothetical protein
+CLEELPEM_01249	CDS	2139	topA	5.99.1.2		DNA topoisomerase 1
+CLEELPEM_01250	CDS	1461	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+CLEELPEM_01251	CDS	633	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+CLEELPEM_01252	CDS	648	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+CLEELPEM_01253	CDS	279				hypothetical protein
+CLEELPEM_01254	CDS	1461	trkH		COG0168	Trk system potassium uptake protein TrkH
+CLEELPEM_01255	tRNA	74				tRNA-Gln(ctg)
+CLEELPEM_01256	CDS	576				hypothetical protein
+CLEELPEM_01257	CDS	1422	alsT_2		COG1115	Amino-acid carrier protein AlsT
+CLEELPEM_01258	CDS	741				hypothetical protein
+CLEELPEM_01259	CDS	1098				hypothetical protein
+CLEELPEM_01260	CDS	4416				hypothetical protein
+CLEELPEM_01261	CDS	1323	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+CLEELPEM_01262	CDS	1524	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+CLEELPEM_01263	CDS	2253	priA_2	3.6.4.-	COG1198	Primosomal protein N'
+CLEELPEM_01264	CDS	1398				hypothetical protein
+CLEELPEM_01265	CDS	642				hypothetical protein
+CLEELPEM_01266	CDS	444	ohrR			Organic hydroperoxide resistance transcriptional regulator
+CLEELPEM_01267	CDS	300				hypothetical protein
+CLEELPEM_01268	CDS	1116	mepA_3			Multidrug export protein MepA
+CLEELPEM_01269	CDS	996	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+CLEELPEM_01270	CDS	1143				hypothetical protein
+CLEELPEM_01271	CDS	972				hypothetical protein
+CLEELPEM_01272	CDS	969	melB		COG2211	Melibiose carrier protein
+CLEELPEM_01273	CDS	174				hypothetical protein
+CLEELPEM_01274	CDS	1575	clpX_2			ATP-dependent Clp protease ATP-binding subunit ClpX
+CLEELPEM_01275	CDS	483	lspA_2	3.4.23.36		Lipoprotein signal peptidase
+CLEELPEM_01276	CDS	765				hypothetical protein
+CLEELPEM_01277	CDS	381				hypothetical protein
+CLEELPEM_01278	CDS	1233	metK	2.5.1.6		S-adenosylmethionine synthase
+CLEELPEM_01279	CDS	2094				hypothetical protein
+CLEELPEM_01280	CDS	1428	btuD_4	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+CLEELPEM_01281	CDS	966				hypothetical protein
+CLEELPEM_01282	CDS	576				hypothetical protein
+CLEELPEM_01283	CDS	2061				hypothetical protein
+CLEELPEM_01284	CDS	1491				hypothetical protein
+CLEELPEM_01285	CDS	1026	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+CLEELPEM_01286	CDS	834				hypothetical protein
+CLEELPEM_01287	CDS	1134				hypothetical protein
+CLEELPEM_01288	CDS	864		1.10.3.-	COG1496	Polyphenol oxidase
+CLEELPEM_01289	CDS	1731				hypothetical protein
+CLEELPEM_01290	CDS	1674				hypothetical protein
+CLEELPEM_01291	CDS	801				hypothetical protein
+CLEELPEM_01292	CDS	2511	bchB	1.3.7.7		Light-independent protochlorophyllide reductase subunit B
+CLEELPEM_01293	CDS	753	nifH1	1.18.6.1		Nitrogenase iron protein 1
+CLEELPEM_01294	CDS	753	thlA_2	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+CLEELPEM_01295	tRNA	77				tRNA-Arg(acg)
+CLEELPEM_01296	CDS	1017	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+CLEELPEM_01297	CDS	498				hypothetical protein
+CLEELPEM_01298	CDS	1737			COG1132	putative ABC transporter ATP-binding protein
+CLEELPEM_01299	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+CLEELPEM_01300	CDS	1371			COG2239	Magnesium transporter MgtE
+CLEELPEM_01301	CDS	1848	typA		COG1217	GTP-binding protein TypA/BipA
+CLEELPEM_01302	CDS	4326	mdtC			Multidrug resistance protein MdtC
+CLEELPEM_01303	CDS	456				hypothetical protein
+CLEELPEM_01304	CDS	435				hypothetical protein
+CLEELPEM_01305	CDS	327				hypothetical protein
+CLEELPEM_01306	CDS	2268	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+CLEELPEM_01307	CDS	1005	dusC	1.3.1.-		tRNA-dihydrouridine(16) synthase
+CLEELPEM_01308	CDS	537	coaX_2	2.7.1.33	COG1521	Type III pantothenate kinase
+CLEELPEM_01309	CDS	924				hypothetical protein
+CLEELPEM_01310	CDS	801	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+CLEELPEM_01311	CDS	801				hypothetical protein
+CLEELPEM_01312	CDS	1539				hypothetical protein
+CLEELPEM_01313	CDS	564	btuR	2.5.1.17	COG2109	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+CLEELPEM_01314	CDS	828	yidA_3	3.1.3.23	COG0561	Sugar phosphatase YidA
+CLEELPEM_01315	CDS	1893	ymdB_3	3.5.1.-		O-acetyl-ADP-ribose deacetylase
+CLEELPEM_01316	CDS	1218				hypothetical protein
+CLEELPEM_01317	CDS	1167				hypothetical protein
+CLEELPEM_01318	CDS	888				hypothetical protein
+CLEELPEM_01319	CDS	603	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+CLEELPEM_01320	CDS	2028				hypothetical protein
+CLEELPEM_01321	CDS	2553	mdoB	2.7.8.20		Phosphoglycerol transferase I
+CLEELPEM_01322	CDS	1392	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+CLEELPEM_01323	CDS	876			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+CLEELPEM_01324	CDS	2118				hypothetical protein
+CLEELPEM_01325	CDS	981	rbsC_1		COG1172	Ribose import permease protein RbsC
+CLEELPEM_01326	CDS	1506	rbsA_1	3.6.3.17	COG1129	Ribose import ATP-binding protein RbsA
+CLEELPEM_01327	CDS	987	rbsC_2		COG1172	Ribose import permease protein RbsC
+CLEELPEM_01328	CDS	1032				hypothetical protein
+CLEELPEM_01329	CDS	441				hypothetical protein
+CLEELPEM_01330	CDS	396				hypothetical protein
+CLEELPEM_01331	CDS	1188				hypothetical protein
+CLEELPEM_01332	CDS	927				hypothetical protein
+CLEELPEM_01333	CDS	1500	rbsA_2	3.6.3.17	COG1129	Ribose import ATP-binding protein RbsA
+CLEELPEM_01334	CDS	762			COG1702	PhoH-like protein
+CLEELPEM_01335	CDS	570	ybeY	3.1.-.-		Endoribonuclease YbeY
+CLEELPEM_01336	CDS	1437			COG2081	putative protein
+CLEELPEM_01337	CDS	1758				hypothetical protein
+CLEELPEM_01338	CDS	648	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+CLEELPEM_01339	CDS	201	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+CLEELPEM_01340	CDS	3171	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+CLEELPEM_01341	CDS	861	glgP_3	2.4.1.1	COG0058	Glycogen phosphorylase
+CLEELPEM_01342	CDS	1554	glgP_4	2.4.1.1	COG0058	Glycogen phosphorylase
+CLEELPEM_01343	CDS	576	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+CLEELPEM_01344	CDS	312	porD		COG1144	Pyruvate synthase subunit PorD
+CLEELPEM_01345	CDS	1203	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+CLEELPEM_01346	CDS	936	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+CLEELPEM_01347	CDS	1473				hypothetical protein
+CLEELPEM_01348	CDS	318				hypothetical protein
+CLEELPEM_01349	CDS	306				hypothetical protein
+CLEELPEM_01350	CDS	525	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+CLEELPEM_01351	CDS	849	thyA1	2.1.1.45	COG0207	Thymidylate synthase 1
+CLEELPEM_01352	CDS	1605		3.1.-.-	COG1236	Ribonuclease
+CLEELPEM_01353	CDS	870				hypothetical protein
+CLEELPEM_01354	CDS	1020	hbpA_1		COG0747	Heme-binding protein A
+CLEELPEM_01355	CDS	951	gsiC		COG0601	Glutathione transport system permease protein GsiC
+CLEELPEM_01356	CDS	801	gsiD		COG1173	Glutathione transport system permease protein GsiD
+CLEELPEM_01357	CDS	972	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+CLEELPEM_01358	CDS	972	btuD_5	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+CLEELPEM_01359	CDS	747	artM		COG1126	Arginine transport ATP-binding protein ArtM
+CLEELPEM_01360	CDS	780	artQ		COG0765	Arginine transport system permease protein ArtQ
+CLEELPEM_01361	CDS	969	mltF			Membrane-bound lytic murein transglycosylase F
+CLEELPEM_01362	CDS	1086	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+CLEELPEM_01363	CDS	1002				hypothetical protein
+CLEELPEM_01364	CDS	966				hypothetical protein
+CLEELPEM_01365	CDS	318				hypothetical protein
+CLEELPEM_01366	CDS	1485				hypothetical protein
+CLEELPEM_01367	CDS	1950				hypothetical protein
+CLEELPEM_01368	CDS	501				hypothetical protein
+CLEELPEM_01369	CDS	801	ubiG_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+CLEELPEM_01370	CDS	846	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+CLEELPEM_01371	CDS	1218	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+CLEELPEM_01372	CDS	507				hypothetical protein
+CLEELPEM_01373	CDS	1059				hypothetical protein
+CLEELPEM_01374	CDS	795	nosF		COG1131	putative ABC transporter ATP-binding protein NosF
+CLEELPEM_01375	CDS	1173				hypothetical protein
+CLEELPEM_01376	CDS	294				hypothetical protein
+CLEELPEM_01377	tRNA	73				tRNA-Thr(ggt)
+CLEELPEM_01378	CDS	891				hypothetical protein
+CLEELPEM_01379	CDS	438				hypothetical protein
+CLEELPEM_01380	CDS	258	sigH		COG1595	RNA polymerase sigma-H factor
+CLEELPEM_01381	CDS	1116	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CLEELPEM_01382	CDS	456	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+CLEELPEM_01383	CDS	1416	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CLEELPEM_01384	CDS	531	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+CLEELPEM_01385	CDS	294				hypothetical protein
+CLEELPEM_01386	CDS	1230				hypothetical protein
+CLEELPEM_01387	CDS	369	rsfS		COG0799	Ribosomal silencing factor RsfS
+CLEELPEM_01388	CDS	603				hypothetical protein
+CLEELPEM_01389	CDS	291			COG1534	RNA-binding protein
+CLEELPEM_01390	CDS	1311	obg	3.6.5.-	COG0536	GTPase Obg
+CLEELPEM_01391	CDS	300	rpmA		COG0211	50S ribosomal protein L27
+CLEELPEM_01392	CDS	1146	mglB_2		COG1879	D-galactose-binding periplasmic protein
+CLEELPEM_01393	CDS	561				hypothetical protein
+CLEELPEM_01394	CDS	717				hypothetical protein
+CLEELPEM_01395	CDS	801	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+CLEELPEM_01396	CDS	1023				hypothetical protein
+CLEELPEM_01397	CDS	786	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+CLEELPEM_01398	CDS	867				DegV domain-containing protein
+CLEELPEM_01399	CDS	1992	gyrB_2	5.99.1.3	COG0187	DNA gyrase subunit B
+CLEELPEM_01400	CDS	468				hypothetical protein
+CLEELPEM_01401	CDS	606	ribU			Riboflavin transporter RibU
+CLEELPEM_01402	CDS	2277				hypothetical protein
+CLEELPEM_01403	CDS	804				hypothetical protein
+CLEELPEM_01404	CDS	927		3.1.1.23	COG2267	Monoacylglycerol lipase
+CLEELPEM_01405	CDS	963	dnaJ_2		COG0484	Chaperone protein DnaJ
+CLEELPEM_01406	CDS	1935				hypothetical protein
+CLEELPEM_01407	CDS	228				hypothetical protein
+CLEELPEM_01408	CDS	501				hypothetical protein
+CLEELPEM_01409	CDS	1317	dinB_3	2.7.7.7		DNA polymerase IV
+CLEELPEM_01410	CDS	570				hypothetical protein
+CLEELPEM_01411	CDS	492				hypothetical protein
+CLEELPEM_01412	CDS	2253	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+CLEELPEM_01413	CDS	600	maf		COG0424	Septum formation protein Maf
+CLEELPEM_01414	CDS	294				hypothetical protein
+CLEELPEM_01415	CDS	507				hypothetical protein
+CLEELPEM_01416	CDS	918	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CLEELPEM_01417	CDS	447	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+CLEELPEM_01418	CDS	324	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+CLEELPEM_01419	CDS	819	ttcA			tRNA 2-thiocytidine biosynthesis protein TtcA
+CLEELPEM_01420	CDS	1227	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+CLEELPEM_01421	CDS	372				hypothetical protein
+CLEELPEM_01422	CDS	681	hxpB	3.1.3.68	COG0637	Hexitol phosphatase B
+CLEELPEM_01423	CDS	1209				hypothetical protein
+CLEELPEM_01424	CDS	528				hypothetical protein
+CLEELPEM_01425	CDS	132				hypothetical protein
+CLEELPEM_01426	CDS	1149	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+CLEELPEM_01427	CDS	852	yusV		COG1120	putative siderophore transport system ATP-binding protein YusV
+CLEELPEM_01428	CDS	1056	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+CLEELPEM_01429	CDS	1068				hypothetical protein
+CLEELPEM_01430	CDS	2403	secDF		COG0341	Protein translocase subunit SecDF
+CLEELPEM_01431	CDS	594				hypothetical protein
+CLEELPEM_01432	CDS	414		2.4.1.319	COG2152	Beta-1,4-mannooligosaccharide phosphorylase
+CLEELPEM_01433	CDS	267	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+CLEELPEM_01434	CDS	738				hypothetical protein
+CLEELPEM_01435	CDS	714	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+CLEELPEM_01436	CDS	888				hypothetical protein
+CLEELPEM_01437	CDS	1077				hypothetical protein
+CLEELPEM_01438	CDS	1344				hypothetical protein
+CLEELPEM_01439	CDS	309				hypothetical protein
+CLEELPEM_01440	CDS	579				hypothetical protein
+CLEELPEM_01441	CDS	729				hypothetical protein
+CLEELPEM_01442	CDS	510	nudC_2	3.6.1.22		NADH pyrophosphatase
+CLEELPEM_01443	CDS	303				hypothetical protein
+CLEELPEM_01444	CDS	771				hypothetical protein
+CLEELPEM_01445	CDS	642	aspC_2	2.6.1.1	COG0436	Aspartate aminotransferase
+CLEELPEM_01446	CDS	690	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+CLEELPEM_01447	CDS	897				hypothetical protein
+CLEELPEM_01448	CDS	615	tdk	2.7.1.21	COG1435	Thymidine kinase
+CLEELPEM_01449	CDS	216				hypothetical protein
+CLEELPEM_01450	CDS	1383				hypothetical protein
+CLEELPEM_01451	CDS	2592				hypothetical protein
+CLEELPEM_01452	CDS	609				hypothetical protein
+CLEELPEM_01453	CDS	612				hypothetical protein
+CLEELPEM_01454	CDS	825	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+CLEELPEM_01455	CDS	447				hypothetical protein
+CLEELPEM_01456	tRNA	89				tRNA-Ser(cga)
+CLEELPEM_01457	CDS	1077	pfkA2	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 2
+CLEELPEM_01458	CDS	624	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+CLEELPEM_01459	CDS	1053				hypothetical protein
+CLEELPEM_01460	CDS	327			COG0718	Nucleoid-associated protein
+CLEELPEM_01461	CDS	600	recR		COG0353	Recombination protein RecR
+CLEELPEM_01462	CDS	1164				hypothetical protein
+CLEELPEM_01463	CDS	465				hypothetical protein
+CLEELPEM_01464	CDS	783	ddpA		COG0747	putative D,D-dipeptide-binding periplasmic protein DdpA
+CLEELPEM_01465	CDS	867	hbpA_2		COG0747	Heme-binding protein A
+CLEELPEM_01466	CDS	654				hypothetical protein
+CLEELPEM_01467	CDS	1452				hypothetical protein
+CLEELPEM_01468	CDS	1380	ftsZ			Cell division protein FtsZ
+CLEELPEM_01469	CDS	1059	mutY	3.2.2.-		Adenine DNA glycosylase
+CLEELPEM_01470	CDS	1029				hypothetical protein
+CLEELPEM_01471	CDS	1389	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+CLEELPEM_01472	CDS	156	era		COG1159	GTPase Era
+CLEELPEM_01473	CDS	666	recO			DNA repair protein RecO
+CLEELPEM_01474	CDS	855				hypothetical protein
+CLEELPEM_01475	CDS	1389	glyQS	6.1.1.14		Glycine--tRNA ligase
+CLEELPEM_01476	CDS	807				hypothetical protein
+CLEELPEM_01477	CDS	1368	fpgS	6.3.2.17		Folylpolyglutamate synthase
+CLEELPEM_01478	CDS	1167	valS_1	6.1.1.9		Valine--tRNA ligase
+CLEELPEM_01479	CDS	879	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+CLEELPEM_01480	CDS	1437				hypothetical protein
+CLEELPEM_01481	CDS	342				hypothetical protein
+CLEELPEM_01482	CDS	1293				hypothetical protein
+CLEELPEM_01483	CDS	648				hypothetical protein
+CLEELPEM_01484	CDS	2118	glgX_3	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+CLEELPEM_01485	CDS	693				hypothetical protein
+CLEELPEM_01486	CDS	405	rlmB_3	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CLEELPEM_01487	CDS	1719				hypothetical protein
+CLEELPEM_01488	CDS	525				hypothetical protein
+CLEELPEM_01489	CDS	867			COG1307	Fatty acid-binding protein
+CLEELPEM_01490	CDS	1356	adeQ		COG2252	Adenine permease AdeQ
+CLEELPEM_01491	tRNA	75				tRNA-Pro(cgg)
+CLEELPEM_01492	CDS	600				hypothetical protein
+CLEELPEM_01493	CDS	1773	atm1		COG5265	ATM1-type heavy metal exporter
+CLEELPEM_01494	CDS	1251	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+CLEELPEM_01495	CDS	546				hypothetical protein
+CLEELPEM_01496	CDS	714	deoD_1	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+CLEELPEM_01497	CDS	813				hypothetical protein
+CLEELPEM_01498	CDS	237	ackA	2.7.2.1	COG0282	Acetate kinase
+CLEELPEM_01499	CDS	183	rpmF			50S ribosomal protein L32
+CLEELPEM_01500	CDS	669	plsX_1	2.3.1.-	COG0416	Phosphate acyltransferase
+CLEELPEM_01501	CDS	336	plsX_2	2.3.1.-		Phosphate acyltransferase
+CLEELPEM_01502	CDS	243	acpP			Acyl carrier protein
+CLEELPEM_01503	CDS	696	rnc	3.1.26.3	COG0571	Ribonuclease 3
+CLEELPEM_01504	CDS	1623				hypothetical protein
+CLEELPEM_01505	CDS	690	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+CLEELPEM_01506	CDS	1140	sasA_8	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_01507	CDS	429	perR_2		COG0735	Peroxide-responsive repressor PerR
+CLEELPEM_01508	CDS	615		2.4.-.-		putative glycosyltransferase
+CLEELPEM_01509	CDS	258	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+CLEELPEM_01510	CDS	1335	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+CLEELPEM_01511	CDS	408	nusB		COG0781	Transcription antitermination protein NusB
+CLEELPEM_01512	CDS	366				hypothetical protein
+CLEELPEM_01513	CDS	540	prfC			Peptide chain release factor 3
+CLEELPEM_01514	CDS	783	murAB	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+CLEELPEM_01515	CDS	423	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+CLEELPEM_01516	CDS	741	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+CLEELPEM_01517	CDS	504	rimI	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+CLEELPEM_01518	CDS	933	rnz	3.1.26.11	COG1234	Ribonuclease Z
+CLEELPEM_01519	CDS	843	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+CLEELPEM_01520	CDS	1815				hypothetical protein
+CLEELPEM_01521	CDS	714				hypothetical protein
+CLEELPEM_01522	CDS	1398				hypothetical protein
+CLEELPEM_01523	CDS	771	sufC		COG0396	Vegetative protein 296
+CLEELPEM_01524	CDS	438	cymR			HTH-type transcriptional regulator CymR
+CLEELPEM_01525	CDS	618	cobB	3.5.1.-	COG0846	NAD-dependent protein deacetylase
+CLEELPEM_01526	CDS	969				hypothetical protein
+CLEELPEM_01527	CDS	429	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+CLEELPEM_01528	CDS	1032	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+CLEELPEM_01529	CDS	879	nth	4.2.99.18		Endonuclease III
+CLEELPEM_01530	CDS	105				hypothetical protein
+CLEELPEM_01531	CDS	663	galK	2.7.1.6	COG0153	Galactokinase
+CLEELPEM_01532	CDS	384				hypothetical protein
+CLEELPEM_01533	CDS	1032				hypothetical protein
+CLEELPEM_01534	CDS	1464				hypothetical protein
+CLEELPEM_01535	CDS	1095	btuD_6	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+CLEELPEM_01536	CDS	465				hypothetical protein
+CLEELPEM_01537	CDS	906				hypothetical protein
+CLEELPEM_01538	CDS	309				hypothetical protein
+CLEELPEM_01539	CDS	1059				hypothetical protein
+CLEELPEM_01540	CDS	750	apaH_2	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+CLEELPEM_01541	CDS	1311				hypothetical protein
+CLEELPEM_01542	CDS	837				hypothetical protein
+CLEELPEM_01543	CDS	129				hypothetical protein
+CLEELPEM_01544	CDS	186				hypothetical protein
+CLEELPEM_01545	CDS	1365				hypothetical protein
+CLEELPEM_01546	CDS	624	hrb		COG1773	High molecular weight rubredoxin
+CLEELPEM_01547	CDS	627				hypothetical protein
+CLEELPEM_01548	CDS	264				hypothetical protein
+CLEELPEM_01549	CDS	639	hypE_1	4.2.1.-		Carbamoyl dehydratase HypE
+CLEELPEM_01550	CDS	333	hypE_2	4.2.1.-	COG0309	Carbamoyl dehydratase HypE
+CLEELPEM_01551	CDS	1053	hypD		COG0409	Hydrogenase maturation factor HypD
+CLEELPEM_01552	CDS	222				hypothetical protein
+CLEELPEM_01553	CDS	1260	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+CLEELPEM_01554	CDS	597	spo0J		COG1475	Stage 0 sporulation protein J
+CLEELPEM_01555	CDS	1332	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CLEELPEM_01556	CDS	906				hypothetical protein
+CLEELPEM_01557	tRNA	75				tRNA-Arg(cct)
+CLEELPEM_01558	CDS	270				hypothetical protein
+CLEELPEM_01559	CDS	891				hypothetical protein
+CLEELPEM_01560	CDS	885				hypothetical protein
+CLEELPEM_01561	CDS	624				hypothetical protein
+CLEELPEM_01562	CDS	1302	eno	4.2.1.11	COG0148	Enolase
+CLEELPEM_01563	CDS	834				hypothetical protein
+CLEELPEM_01564	CDS	330				hypothetical protein
+CLEELPEM_01565	CDS	489				hypothetical protein
+CLEELPEM_01566	CDS	1461				hypothetical protein
+CLEELPEM_01567	CDS	4617				hypothetical protein
+CLEELPEM_01568	CDS	2214				hypothetical protein
+CLEELPEM_01569	CDS	843				hypothetical protein
+CLEELPEM_01570	CDS	2103				hypothetical protein
+CLEELPEM_01571	CDS	717				hypothetical protein
+CLEELPEM_01572	CDS	738	toxA	3.4.22.-		Toxin A
+CLEELPEM_01573	CDS	885	rhaS_3			HTH-type transcriptional activator RhaS
+CLEELPEM_01574	CDS	726	deoD_2	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+CLEELPEM_01575	CDS	897				hypothetical protein
+CLEELPEM_01576	CDS	783				hypothetical protein
+CLEELPEM_01577	CDS	639	nudL	3.6.1.-		putative Nudix hydrolase NudL
+CLEELPEM_01578	CDS	621				hypothetical protein
+CLEELPEM_01579	CDS	1353				hypothetical protein
+CLEELPEM_01580	CDS	561				hypothetical protein
+CLEELPEM_01581	CDS	1755				hypothetical protein
+CLEELPEM_01582	CDS	570				hypothetical protein
+CLEELPEM_01583	CDS	576				hypothetical protein
+CLEELPEM_01584	CDS	663				hypothetical protein
+CLEELPEM_01585	CDS	1392	dsdX		COG2610	D-serine transporter DsdX
+CLEELPEM_01586	CDS	528				hypothetical protein
+CLEELPEM_01587	CDS	1479				hypothetical protein
+CLEELPEM_01588	CDS	525				hypothetical protein
+CLEELPEM_01589	CDS	642				hypothetical protein
+CLEELPEM_01590	CDS	963				hypothetical protein
+CLEELPEM_01591	CDS	537				hypothetical protein
+CLEELPEM_01592	CDS	1221				hypothetical protein
+CLEELPEM_01593	CDS	1701	tvaI	3.2.1.135		Neopullulanase 1
+CLEELPEM_01594	CDS	867	fba_2	4.1.2.13		Fructose-bisphosphate aldolase
+CLEELPEM_01595	CDS	600	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+CLEELPEM_01596	CDS	1191	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+CLEELPEM_01597	CDS	771	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+CLEELPEM_01598	CDS	708				hypothetical protein
+CLEELPEM_01599	CDS	1023	ghrB_2	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+CLEELPEM_01600	CDS	717				hypothetical protein
+CLEELPEM_01601	CDS	687	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+CLEELPEM_01602	CDS	1041				hypothetical protein
+CLEELPEM_01603	CDS	234				hypothetical protein
+CLEELPEM_01604	CDS	432	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+CLEELPEM_01605	CDS	1212	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+CLEELPEM_01606	CDS	462				hypothetical protein
+CLEELPEM_01607	CDS	1083				hypothetical protein
+CLEELPEM_01608	CDS	2331	mtgA	2.4.2.-		Monofunctional biosynthetic peptidoglycan transglycosylase
+CLEELPEM_01609	CDS	987	dctP		COG1638	Solute-binding protein
+CLEELPEM_01610	CDS	891	iolE	4.2.1.44		Inosose dehydratase
+CLEELPEM_01611	CDS	399	dctM_2		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+CLEELPEM_01612	CDS	177				hypothetical protein
+CLEELPEM_01613	CDS	723				hypothetical protein
+CLEELPEM_01614	CDS	1527				hypothetical protein
+CLEELPEM_01615	CDS	984	pfkA_2	2.7.1.11		ATP-dependent 6-phosphofructokinase
+CLEELPEM_01616	CDS	753	nanR			Transcriptional regulator NanR
+CLEELPEM_01617	CDS	534	hprA	1.1.1.29	COG1052	Glycerate dehydrogenase
+CLEELPEM_01618	CDS	1032				hypothetical protein
+CLEELPEM_01619	CDS	657				hypothetical protein
+CLEELPEM_01620	CDS	459				hypothetical protein
+CLEELPEM_01621	CDS	1161	sftA			DNA translocase SftA
+CLEELPEM_01622	CDS	462	argR		COG1438	Arginine repressor
+CLEELPEM_01623	CDS	861	nadK	2.7.1.23		NAD kinase
+CLEELPEM_01624	CDS	828	tlyA		COG1189	Hemolysin A
+CLEELPEM_01625	CDS	135				hypothetical protein
+CLEELPEM_01626	CDS	873	secA		COG0653	Protein translocase subunit SecA
+CLEELPEM_01627	CDS	1125	prfB			Peptide chain release factor 2
+CLEELPEM_01628	CDS	489				hypothetical protein
+CLEELPEM_01629	CDS	1203	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+CLEELPEM_01630	CDS	816				hypothetical protein
+CLEELPEM_01631	CDS	792				hypothetical protein
+CLEELPEM_01632	CDS	2232	ams	2.4.1.4	COG0366	Amylosucrase
+CLEELPEM_01633	CDS	843	cytR		COG1609	HTH-type transcriptional repressor CytR
+CLEELPEM_01634	CDS	1392				hypothetical protein
+CLEELPEM_01635	CDS	3558				hypothetical protein
+CLEELPEM_01636	CDS	1638				hypothetical protein
+CLEELPEM_01637	CDS	291				hypothetical protein
+CLEELPEM_01638	CDS	369	ktrA		COG0569	Ktr system potassium uptake protein A
+CLEELPEM_01639	CDS	240				hypothetical protein
+CLEELPEM_01640	CDS	204				hypothetical protein
+CLEELPEM_01641	CDS	1128				hypothetical protein
+CLEELPEM_01642	CDS	519				hypothetical protein
+CLEELPEM_01643	tRNA	85				tRNA-Leu(cag)
+CLEELPEM_01644	tRNA	75				tRNA-Val(gac)
+CLEELPEM_01645	CDS	1071	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+CLEELPEM_01646	CDS	390				hypothetical protein
+CLEELPEM_01647	CDS	519	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+CLEELPEM_01648	CDS	678	yqgN		COG0212	putative protein YqgN
+CLEELPEM_01649	CDS	342				hypothetical protein
+CLEELPEM_01650	CDS	1110	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+CLEELPEM_01651	CDS	207				hypothetical protein
+CLEELPEM_01652	CDS	798	dxs_2	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+CLEELPEM_01653	CDS	933	dxs_3	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+CLEELPEM_01654	CDS	672	rpe_2	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+CLEELPEM_01655	CDS	873				hypothetical protein
+CLEELPEM_01656	CDS	828				hypothetical protein
+CLEELPEM_01657	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+CLEELPEM_01658	CDS	1467	gyrA_2	5.99.1.3	COG0188	DNA gyrase subunit A
+CLEELPEM_01659	CDS	1347	yclM_2	2.7.2.4	COG0527	Aspartokinase 3
+CLEELPEM_01660	CDS	231				hypothetical protein
+CLEELPEM_01661	CDS	708				hypothetical protein
+CLEELPEM_01662	CDS	660	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+CLEELPEM_01663	CDS	261				hypothetical protein
+CLEELPEM_01664	CDS	1041				hypothetical protein
+CLEELPEM_01665	CDS	696	lyx	2.7.1.-	COG1070	L-xylulose/3-keto-L-gulonate kinase
+CLEELPEM_01666	CDS	861	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+CLEELPEM_01667	CDS	423	araD_1	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+CLEELPEM_01668	CDS	273	araD_2	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase
+CLEELPEM_01669	CDS	942				hypothetical protein
+CLEELPEM_01670	CDS	282				hypothetical protein
+CLEELPEM_01671	CDS	735			COG1638	Solute-binding protein
+CLEELPEM_01672	CDS	996				hypothetical protein
+CLEELPEM_01673	CDS	510				hypothetical protein
+CLEELPEM_01674	CDS	510				hypothetical protein
+CLEELPEM_01675	CDS	594				hypothetical protein
+CLEELPEM_01676	CDS	1170				hypothetical protein
+CLEELPEM_01677	CDS	1632				hypothetical protein
+CLEELPEM_01678	CDS	273				hypothetical protein
+CLEELPEM_01679	CDS	936				hypothetical protein
+CLEELPEM_01680	CDS	840				hypothetical protein
+CLEELPEM_01681	CDS	519				hypothetical protein
+CLEELPEM_01682	CDS	1065				hypothetical protein
+CLEELPEM_01683	CDS	534	bioY2		COG1268	Biotin transporter BioY2
+CLEELPEM_01684	CDS	831	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+CLEELPEM_01685	CDS	351				hypothetical protein
+CLEELPEM_01686	CDS	528				hypothetical protein
+CLEELPEM_01687	CDS	729	ydfK		COG1811	putative membrane protein YdfK
+CLEELPEM_01688	CDS	378	nit1	3.5.1.-		Deaminated glutathione amidase
+CLEELPEM_01689	CDS	876				hypothetical protein
+CLEELPEM_01690	CDS	432				hypothetical protein
+CLEELPEM_01691	CDS	276				hypothetical protein
+CLEELPEM_01692	CDS	1083				hypothetical protein
+CLEELPEM_01693	CDS	426				hypothetical protein
+CLEELPEM_01694	CDS	744				hypothetical protein
+CLEELPEM_01695	CDS	627				hypothetical protein
+CLEELPEM_01696	CDS	639				hypothetical protein
+CLEELPEM_01697	CDS	435				hypothetical protein
+CLEELPEM_01698	CDS	369				hypothetical protein
+CLEELPEM_01699	CDS	1074	sasA_9	2.7.-.-		Adaptive-response sensory-kinase SasA
+CLEELPEM_01700	CDS	636	walR_3		COG0745	Transcriptional regulatory protein WalR
+CLEELPEM_01701	CDS	753				hypothetical protein
+CLEELPEM_01702	CDS	567				hypothetical protein
+CLEELPEM_01703	CDS	615	pyrH	2.7.4.22	COG0528	Uridylate kinase
+CLEELPEM_01704	CDS	558	frr			Ribosome-recycling factor
+CLEELPEM_01705	CDS	270	uppS	2.5.1.-		Isoprenyl transferase
+CLEELPEM_01706	CDS	750	dnaJ_3			Chaperone protein DnaJ
+CLEELPEM_01707	CDS	864				hypothetical protein
+CLEELPEM_01708	CDS	360				hypothetical protein
+CLEELPEM_01709	CDS	636	rex			Redox-sensing transcriptional repressor Rex
+CLEELPEM_01710	CDS	1584	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+CLEELPEM_01711	CDS	435				hypothetical protein
+CLEELPEM_01712	CDS	1251				hypothetical protein
+CLEELPEM_01713	CDS	639				hypothetical protein
+CLEELPEM_01714	CDS	576	trkA		COG0569	Trk system potassium uptake protein TrkA
+CLEELPEM_01715	CDS	897	glnA_3	6.3.1.2		Glutamine synthetase
+CLEELPEM_01716	CDS	735	glnA_4	6.3.1.2		Glutamine synthetase
+CLEELPEM_01717	CDS	375				hypothetical protein
+CLEELPEM_01718	CDS	513	xpt	2.4.2.22		Xanthine phosphoribosyltransferase
+CLEELPEM_01719	CDS	786				hypothetical protein
+CLEELPEM_01720	CDS	381	comM		COG0606	Competence protein ComM
+CLEELPEM_01721	CDS	693				hypothetical protein
+CLEELPEM_01722	CDS	495				hypothetical protein
+CLEELPEM_01723	CDS	675	hemN	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+CLEELPEM_01724	CDS	525				Oxygen-independent coproporphyrinogen-III oxidase-like protein
+CLEELPEM_01725	CDS	660	lepA_2	3.6.5.-		Elongation factor 4
